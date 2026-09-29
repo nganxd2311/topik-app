@@ -1,0 +1,42 @@
+:root {
+  --bg: #f2f4f9; --panel: #fff; --ink: #1b2340; --muted: #66708f; --line: #d9deec;
+  --brand: #2f5bea; --ok: #1f9d6b; --bad: #d6455d;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0f1424; --panel: #182038; --ink: #e8ecfa; --muted: #98a2c4; --line: #2a3556; --brand: #6d8dff; }
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink); line-height: 1.55;
+  font: 16px/1.55 "Noto Sans KR", "Malgun Gothic", "Apple SD Gothic Neo", system-ui, sans-serif; }
+header, main { max-width: 760px; margin: 0 auto; padding: 16px; }
+h1 { font-size: 1.6rem; margin: 8px 0 12px; letter-spacing: .02em; }
+.controls { display: flex; gap: 8px; flex-wrap: wrap; }
+input, select, button { font: inherit; color: inherit; }
+input, select { padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+input { flex: 1 1 240px; }
+:focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; }
+.tabs { display: flex; gap: 4px; margin-top: 12px; border-bottom: 2px solid var(--line); }
+.tabs button { padding: 10px 16px; background: none; border: 0; border-bottom: 3px solid transparent;
+  margin-bottom: -2px; cursor: pointer; color: var(--muted); }
+.tabs button.on { color: var(--brand); border-color: var(--brand); font-weight: 700; }
+.muted { color: var(--muted); font-size: .9rem; margin: 4px 0; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; }
+.card h3 { display: inline; font-size: 1.4rem; margin: 0 8px 0 0; }
+.tag { font-size: .8rem; color: var(--brand); border: 1px solid var(--brand); border-radius: 99px; padding: 1px 8px; }
+.pron { color: var(--muted); margin: 2px 0; }
+.ex { border-left: 3px solid var(--brand); padding-left: 10px; margin: 8px 0 0; }
+.flash { min-height: 260px; display: grid; place-content: center; text-align: center; padding: 24px; cursor: pointer;
+  background: var(--brand); color: #fff; border-radius: 16px; margin: 16px 0; }
+.flash.back { background: var(--panel); color: var(--ink); border: 2px solid var(--brand); }
+.flash .big { font-size: 3.4rem; margin: 0; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; justify-content: center; }
+.btn, .opt { padding: 10px 16px; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); cursor: pointer; }
+.btn:hover, .opt:hover:not(:disabled) { border-color: var(--brand); }
+.btn.known { background: var(--ok); color: #fff; border-color: var(--ok); }
+.big { font-size: 2.6rem; text-align: center; margin: 12px 0 0; }
+.opts { display: grid; gap: 8px; margin: 16px 0; }
+.opt { text-align: left; }
+.opt.ok { background: var(--ok); color: #fff; border-color: var(--ok); }
+.opt.bad { background: var(--bad); color: #fff; border-color: var(--bad); }
+#view > p.muted:first-child { text-align: center; }

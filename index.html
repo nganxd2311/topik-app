@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- CSP: chỉ cho phép tải script/style/dữ liệu từ chính trang này, chặn mã lạ chèn vào -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:">
+  <title>Học từ vựng TOPIK</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>한국어 단어장</h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Tìm từ Hàn, nghĩa Việt, phát âm…" aria-label="Tìm kiếm">
+      <select id="level" aria-label="Cấp độ"><option value="all">Tất cả cấp độ</option></select>
+    </div>
+    <nav class="tabs">
+      <button data-view="list" class="on">Danh sách</button>
+      <button data-view="flash">Flashcard</button>
+      <button data-view="quiz">Quiz</button>
+    </nav>
+  </header>
+  <main id="view"></main>
+  <script src="app.js"></script>
+</body>
+</html>
