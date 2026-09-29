@@ -1,0 +1,3143 @@
+[
+ {
+  "id": 1,
+  "level": "TOPIK 1",
+  "word": "안녕하세요",
+  "usage": "Chào hỏi lịch sự, dùng mọi lúc trong ngày",
+  "meaning": "Xin chào",
+  "pron": "[안녕하세요] an-nyeong-ha-se-yo",
+  "example": "안녕하세요, 만나서 반가워요. (Xin chào, rất vui được gặp bạn.)"
+ },
+ {
+  "id": 2,
+  "level": "TOPIK 1",
+  "word": "감사합니다",
+  "usage": "Cảm ơn trang trọng, dùng với người lớn/khách hàng",
+  "meaning": "Cảm ơn",
+  "pron": "[감사함니다] gam-sa-ham-ni-da",
+  "example": "도와주셔서 감사합니다. (Cảm ơn vì đã giúp đỡ.)"
+ },
+ {
+  "id": 3,
+  "level": "TOPIK 1",
+  "word": "죄송합니다",
+  "usage": "Xin lỗi trang trọng, dùng nơi công sở/với người lớn",
+  "meaning": "Xin lỗi",
+  "pron": "[죄송함니다] joe-song-ham-ni-da",
+  "example": "늦어서 죄송합니다. (Xin lỗi vì đã đến muộn.)"
+ },
+ {
+  "id": 4,
+  "level": "TOPIK 1",
+  "word": "네",
+  "usage": "Đáp lại đồng ý, lịch sự",
+  "meaning": "Vâng, dạ",
+  "pron": "[네] ne",
+  "example": "네, 알겠습니다. (Vâng, tôi hiểu rồi.)"
+ },
+ {
+  "id": 5,
+  "level": "TOPIK 1",
+  "word": "아니요",
+  "usage": "Đáp lại phủ định, từ chối nhẹ",
+  "meaning": "Không",
+  "pron": "[아니요] a-ni-yo",
+  "example": "아니요, 괜찮아요. (Không, không sao đâu.)"
+ },
+ {
+  "id": 6,
+  "level": "TOPIK 1",
+  "word": "저",
+  "usage": "Đại từ ngôi 1 khiêm nhường, nói với người trên",
+  "meaning": "Tôi (khiêm nhường)",
+  "pron": "[저] jeo",
+  "example": "저는 베트남 사람이에요. (Tôi là người Việt Nam.)"
+ },
+ {
+  "id": 7,
+  "level": "TOPIK 1",
+  "word": "나",
+  "usage": "Đại từ ngôi 1 thân mật, nói với bạn bè/người nhỏ hơn",
+  "meaning": "Tôi, mình, tớ",
+  "pron": "[나] na",
+  "example": "나는 커피를 좋아해. (Mình thích cà phê.)"
+ },
+ {
+  "id": 8,
+  "level": "TOPIK 1",
+  "word": "사람",
+  "usage": "Chỉ con người, quốc tịch (한국 사람)",
+  "meaning": "Người",
+  "pron": "[사람] sa-ram",
+  "example": "저 사람은 제 친구예요. (Người kia là bạn của tôi.)"
+ },
+ {
+  "id": 9,
+  "level": "TOPIK 1",
+  "word": "친구",
+  "usage": "Nói về bạn bè cùng tuổi",
+  "meaning": "Bạn bè",
+  "pron": "[친구] chin-gu",
+  "example": "친구를 만나요. (Tôi gặp bạn.)"
+ },
+ {
+  "id": 10,
+  "level": "TOPIK 1",
+  "word": "학교",
+  "usage": "Nói về nơi học tập",
+  "meaning": "Trường học",
+  "pron": "[학꾜] hak-kkyo",
+  "example": "학교에 가요. (Tôi đi đến trường.)"
+ },
+ {
+  "id": 11,
+  "level": "TOPIK 1",
+  "word": "학생",
+  "usage": "Chỉ người đang đi học",
+  "meaning": "Học sinh, sinh viên",
+  "pron": "[학쌩] hak-ssaeng",
+  "example": "저는 대학생이에요. (Tôi là sinh viên đại học.)"
+ },
+ {
+  "id": 12,
+  "level": "TOPIK 1",
+  "word": "선생님",
+  "usage": "Gọi/nhắc đến thầy cô giáo, kính ngữ",
+  "meaning": "Thầy/cô giáo",
+  "pron": "[선생님] seon-saeng-nim",
+  "example": "선생님이 한국어를 가르쳐요. (Cô giáo dạy tiếng Hàn.)"
+ },
+ {
+  "id": 13,
+  "level": "TOPIK 1",
+  "word": "가족",
+  "usage": "Nói về các thành viên trong gia đình",
+  "meaning": "Gia đình",
+  "pron": "[가족] ga-jok",
+  "example": "우리 가족은 네 명이에요. (Gia đình tôi có bốn người.)"
+ },
+ {
+  "id": 14,
+  "level": "TOPIK 1",
+  "word": "어머니",
+  "usage": "Gọi mẹ lịch sự, trang trọng",
+  "meaning": "Mẹ",
+  "pron": "[어머니] eo-meo-ni",
+  "example": "어머니는 요리를 잘하세요. (Mẹ nấu ăn giỏi.)"
+ },
+ {
+  "id": 15,
+  "level": "TOPIK 1",
+  "word": "아버지",
+  "usage": "Gọi bố lịch sự, trang trọng",
+  "meaning": "Bố, cha",
+  "pron": "[아버지] a-beo-ji",
+  "example": "아버지는 회사에 다니세요. (Bố đi làm ở công ty.)"
+ },
+ {
+  "id": 16,
+  "level": "TOPIK 1",
+  "word": "형",
+  "usage": "Nam gọi anh trai ruột hoặc anh thân thiết",
+  "meaning": "Anh trai (nam gọi)",
+  "pron": "[형] hyeong",
+  "example": "형은 서울에 살아요. (Anh trai tôi sống ở Seoul.)"
+ },
+ {
+  "id": 17,
+  "level": "TOPIK 1",
+  "word": "오빠",
+  "usage": "Nữ gọi anh trai ruột hoặc anh thân thiết",
+  "meaning": "Anh trai (nữ gọi)",
+  "pron": "[오빠] o-ppa",
+  "example": "오빠가 저를 도와줘요. (Anh trai giúp tôi.)"
+ },
+ {
+  "id": 18,
+  "level": "TOPIK 1",
+  "word": "누나",
+  "usage": "Nam gọi chị gái",
+  "meaning": "Chị gái (nam gọi)",
+  "pron": "[누나] nu-na",
+  "example": "누나는 선생님이에요. (Chị tôi là giáo viên.)"
+ },
+ {
+  "id": 19,
+  "level": "TOPIK 1",
+  "word": "언니",
+  "usage": "Nữ gọi chị gái",
+  "meaning": "Chị gái (nữ gọi)",
+  "pron": "[언니] eon-ni",
+  "example": "언니와 같이 쇼핑해요. (Tôi đi mua sắm cùng chị.)"
+ },
+ {
+  "id": 20,
+  "level": "TOPIK 1",
+  "word": "동생",
+  "usage": "Nói về em trai/em gái",
+  "meaning": "Em (trai/gái)",
+  "pron": "[동생] dong-saeng",
+  "example": "동생이 두 명 있어요. (Tôi có hai em.)"
+ },
+ {
+  "id": 21,
+  "level": "TOPIK 1",
+  "word": "집",
+  "usage": "Nói về nhà ở, nơi sinh sống",
+  "meaning": "Nhà",
+  "pron": "[집] jip",
+  "example": "집에서 쉬어요. (Tôi nghỉ ngơi ở nhà.)"
+ },
+ {
+  "id": 22,
+  "level": "TOPIK 1",
+  "word": "방",
+  "usage": "Nói về phòng trong nhà, khách sạn",
+  "meaning": "Phòng",
+  "pron": "[방] bang",
+  "example": "방이 아주 깨끗해요. (Phòng rất sạch.)"
+ },
+ {
+  "id": 23,
+  "level": "TOPIK 1",
+  "word": "물",
+  "usage": "Nói về nước uống, chất lỏng",
+  "meaning": "Nước",
+  "pron": "[물] mul",
+  "example": "물을 마셔요. (Tôi uống nước.)"
+ },
+ {
+  "id": 24,
+  "level": "TOPIK 1",
+  "word": "밥",
+  "usage": "Chỉ cơm hoặc bữa ăn nói chung",
+  "meaning": "Cơm, bữa ăn",
+  "pron": "[밥] bap",
+  "example": "밥 먹었어요? (Bạn ăn cơm chưa?)"
+ },
+ {
+  "id": 25,
+  "level": "TOPIK 1",
+  "word": "김치",
+  "usage": "Món ăn truyền thống, gặp trong nhà hàng/bữa ăn",
+  "meaning": "Kim chi",
+  "pron": "[김치] gim-chi",
+  "example": "김치가 조금 매워요. (Kim chi hơi cay.)"
+ },
+ {
+  "id": 26,
+  "level": "TOPIK 1",
+  "word": "커피",
+  "usage": "Gọi đồ uống ở quán cà phê",
+  "meaning": "Cà phê",
+  "pron": "[커피] keo-pi",
+  "example": "커피 한 잔 주세요. (Cho tôi một ly cà phê.)"
+ },
+ {
+  "id": 27,
+  "level": "TOPIK 1",
+  "word": "빵",
+  "usage": "Nói về đồ ăn sáng, tiệm bánh",
+  "meaning": "Bánh mì, bánh",
+  "pron": "[빵] ppang",
+  "example": "아침에 빵을 먹어요. (Buổi sáng tôi ăn bánh mì.)"
+ },
+ {
+  "id": 28,
+  "level": "TOPIK 1",
+  "word": "과일",
+  "usage": "Nói về trái cây khi mua sắm, ăn uống",
+  "meaning": "Trái cây",
+  "pron": "[과일] gwa-il",
+  "example": "과일을 좋아해요. (Tôi thích trái cây.)"
+ },
+ {
+  "id": 29,
+  "level": "TOPIK 1",
+  "word": "사과",
+  "usage": "Trái táo (đồng âm với \"xin lỗi\" nhưng khác nghĩa)",
+  "meaning": "Quả táo",
+  "pron": "[사과] sa-gwa",
+  "example": "사과가 맛있어요. (Táo ngon.)"
+ },
+ {
+  "id": 30,
+  "level": "TOPIK 1",
+  "word": "고기",
+  "usage": "Nói về thịt khi gọi món, đi chợ",
+  "meaning": "Thịt",
+  "pron": "[고기] go-gi",
+  "example": "고기를 구워요. (Tôi nướng thịt.)"
+ },
+ {
+  "id": 31,
+  "level": "TOPIK 1",
+  "word": "음식",
+  "usage": "Nói chung về món ăn, thức ăn",
+  "meaning": "Món ăn, đồ ăn",
+  "pron": "[음식] eum-sik",
+  "example": "한국 음식을 좋아해요. (Tôi thích đồ ăn Hàn Quốc.)"
+ },
+ {
+  "id": 32,
+  "level": "TOPIK 1",
+  "word": "시간",
+  "usage": "Hỏi/nói về thời gian, giờ giấc",
+  "meaning": "Thời gian, giờ",
+  "pron": "[시간] si-gan",
+  "example": "시간이 없어요. (Tôi không có thời gian.)"
+ },
+ {
+  "id": 33,
+  "level": "TOPIK 1",
+  "word": "오늘",
+  "usage": "Nói về ngày hôm nay",
+  "meaning": "Hôm nay",
+  "pron": "[오늘] o-neul",
+  "example": "오늘 날씨가 좋아요. (Hôm nay thời tiết đẹp.)"
+ },
+ {
+  "id": 34,
+  "level": "TOPIK 1",
+  "word": "어제",
+  "usage": "Nói về ngày hôm qua",
+  "meaning": "Hôm qua",
+  "pron": "[어제] eo-je",
+  "example": "어제 영화를 봤어요. (Hôm qua tôi đã xem phim.)"
+ },
+ {
+  "id": 35,
+  "level": "TOPIK 1",
+  "word": "내일",
+  "usage": "Nói về ngày mai, hẹn hò, lịch trình",
+  "meaning": "Ngày mai",
+  "pron": "[내일] nae-il",
+  "example": "내일 만나요. (Ngày mai gặp nhau nhé.)"
+ },
+ {
+  "id": 36,
+  "level": "TOPIK 1",
+  "word": "지금",
+  "usage": "Nói về thời điểm hiện tại",
+  "meaning": "Bây giờ",
+  "pron": "[지금] ji-geum",
+  "example": "지금 뭐 해요? (Bây giờ bạn đang làm gì?)"
+ },
+ {
+  "id": 37,
+  "level": "TOPIK 1",
+  "word": "아침",
+  "usage": "Chỉ buổi sáng hoặc bữa sáng",
+  "meaning": "Buổi sáng, bữa sáng",
+  "pron": "[아침] a-chim",
+  "example": "아침에 일찍 일어나요. (Buổi sáng tôi dậy sớm.)"
+ },
+ {
+  "id": 38,
+  "level": "TOPIK 1",
+  "word": "저녁",
+  "usage": "Chỉ buổi tối hoặc bữa tối",
+  "meaning": "Buổi tối, bữa tối",
+  "pron": "[저녁] jeo-nyeok",
+  "example": "저녁에 운동해요. (Buổi tối tôi tập thể dục.)"
+ },
+ {
+  "id": 39,
+  "level": "TOPIK 1",
+  "word": "주말",
+  "usage": "Nói về kế hoạch cuối tuần",
+  "meaning": "Cuối tuần",
+  "pron": "[주말] ju-mal",
+  "example": "주말에 뭐 해요? (Cuối tuần bạn làm gì?)"
+ },
+ {
+  "id": 40,
+  "level": "TOPIK 1",
+  "word": "회사",
+  "usage": "Nói về công ty, nơi làm việc",
+  "meaning": "Công ty",
+  "pron": "[회사] hoe-sa",
+  "example": "회사에서 일해요. (Tôi làm việc ở công ty.)"
+ },
+ {
+  "id": 41,
+  "level": "TOPIK 1",
+  "word": "일",
+  "usage": "Nói về công việc, việc phải làm",
+  "meaning": "Công việc, việc",
+  "pron": "[일] il",
+  "example": "일이 너무 많아요. (Có quá nhiều việc.)"
+ },
+ {
+  "id": 42,
+  "level": "TOPIK 1",
+  "word": "돈",
+  "usage": "Nói về tiền bạc, mua sắm",
+  "meaning": "Tiền",
+  "pron": "[돈] don",
+  "example": "돈이 필요해요. (Tôi cần tiền.)"
+ },
+ {
+  "id": 43,
+  "level": "TOPIK 1",
+  "word": "책",
+  "usage": "Nói về sách, học tập, đọc",
+  "meaning": "Sách",
+  "pron": "[책] chaek",
+  "example": "책을 읽어요. (Tôi đọc sách.)"
+ },
+ {
+  "id": 44,
+  "level": "TOPIK 1",
+  "word": "영화",
+  "usage": "Nói về sở thích, hẹn hò",
+  "meaning": "Phim, điện ảnh",
+  "pron": "[영화] yeong-hwa",
+  "example": "영화를 좋아해요. (Tôi thích xem phim.)"
+ },
+ {
+  "id": 45,
+  "level": "TOPIK 1",
+  "word": "음악",
+  "usage": "Nói về sở thích âm nhạc",
+  "meaning": "Âm nhạc",
+  "pron": "[음악] eu-mak",
+  "example": "음악을 들어요. (Tôi nghe nhạc.)"
+ },
+ {
+  "id": 46,
+  "level": "TOPIK 1",
+  "word": "전화",
+  "usage": "Nói về cuộc gọi, điện thoại",
+  "meaning": "Điện thoại, cuộc gọi",
+  "pron": "[전화] jeon-hwa",
+  "example": "전화 좀 받아 주세요. (Xin hãy nghe điện thoại giúp.)"
+ },
+ {
+  "id": 47,
+  "level": "TOPIK 1",
+  "word": "날씨",
+  "usage": "Bắt chuyện, hỏi thăm thời tiết",
+  "meaning": "Thời tiết",
+  "pron": "[날씨] nal-ssi",
+  "example": "오늘 날씨가 어때요? (Hôm nay thời tiết thế nào?)"
+ },
+ {
+  "id": 48,
+  "level": "TOPIK 1",
+  "word": "비",
+  "usage": "Nói về mưa trong dự báo thời tiết",
+  "meaning": "Mưa",
+  "pron": "[비] bi",
+  "example": "비가 와요. (Trời mưa.)"
+ },
+ {
+  "id": 49,
+  "level": "TOPIK 1",
+  "word": "한국",
+  "usage": "Nói về đất nước Hàn Quốc",
+  "meaning": "Hàn Quốc",
+  "pron": "[한국] han-guk",
+  "example": "한국에 가고 싶어요. (Tôi muốn đến Hàn Quốc.)"
+ },
+ {
+  "id": 50,
+  "level": "TOPIK 1",
+  "word": "베트남",
+  "usage": "Giới thiệu quê hương, quốc tịch",
+  "meaning": "Việt Nam",
+  "pron": "[베트남] be-teu-nam",
+  "example": "저는 베트남에서 왔어요. (Tôi đến từ Việt Nam.)"
+ },
+ {
+  "id": 51,
+  "level": "TOPIK 1",
+  "word": "가다",
+  "usage": "Di chuyển từ nơi này đến nơi khác, ra xa người nói",
+  "meaning": "Đi",
+  "pron": "[가다] ga-da",
+  "example": "학교에 가요. (Tôi đi đến trường.)"
+ },
+ {
+  "id": 52,
+  "level": "TOPIK 1",
+  "word": "오다",
+  "usage": "Di chuyển đến chỗ người nói, cũng dùng cho mưa/tuyết",
+  "meaning": "Đến, tới",
+  "pron": "[오다] o-da",
+  "example": "친구가 우리 집에 와요. (Bạn đến nhà tôi.)"
+ },
+ {
+  "id": 53,
+  "level": "TOPIK 1",
+  "word": "먹다",
+  "usage": "Ăn uống nói chung (ăn, uống thuốc)",
+  "meaning": "Ăn",
+  "pron": "[먹따] meok-tta",
+  "example": "점심을 먹어요. (Tôi ăn trưa.)"
+ },
+ {
+  "id": 54,
+  "level": "TOPIK 1",
+  "word": "마시다",
+  "usage": "Dùng cho đồ uống",
+  "meaning": "Uống",
+  "pron": "[마시다] ma-si-da",
+  "example": "물을 마셔요. (Tôi uống nước.)"
+ },
+ {
+  "id": 55,
+  "level": "TOPIK 1",
+  "word": "자다",
+  "usage": "Nói về ngủ, đi ngủ",
+  "meaning": "Ngủ",
+  "pron": "[자다] ja-da",
+  "example": "밤에 일찍 자요. (Buổi tối tôi ngủ sớm.)"
+ },
+ {
+  "id": 56,
+  "level": "TOPIK 1",
+  "word": "보다",
+  "usage": "Xem phim, nhìn, gặp (nghĩa mở rộng)",
+  "meaning": "Xem, nhìn",
+  "pron": "[보다] bo-da",
+  "example": "텔레비전을 봐요. (Tôi xem tivi.)"
+ },
+ {
+  "id": 57,
+  "level": "TOPIK 1",
+  "word": "만나다",
+  "usage": "Gặp gỡ, hẹn gặp ai đó",
+  "meaning": "Gặp",
+  "pron": "[만나다] man-na-da",
+  "example": "친구를 만나요. (Tôi gặp bạn.)"
+ },
+ {
+  "id": 58,
+  "level": "TOPIK 1",
+  "word": "하다",
+  "usage": "Động từ cơ bản, gắn sau danh từ tạo thành động từ",
+  "meaning": "Làm",
+  "pron": "[하다] ha-da",
+  "example": "숙제를 해요. (Tôi làm bài tập.)"
+ },
+ {
+  "id": 59,
+  "level": "TOPIK 1",
+  "word": "공부하다",
+  "usage": "Nói về việc học tập, ôn thi",
+  "meaning": "Học",
+  "pron": "[공부하다] gong-bu-ha-da",
+  "example": "한국어를 공부해요. (Tôi học tiếng Hàn.)"
+ },
+ {
+  "id": 60,
+  "level": "TOPIK 1",
+  "word": "일하다",
+  "usage": "Nói về đi làm, làm việc",
+  "meaning": "Làm việc",
+  "pron": "[일하다] il-ha-da",
+  "example": "은행에서 일해요. (Tôi làm việc ở ngân hàng.)"
+ },
+ {
+  "id": 61,
+  "level": "TOPIK 1",
+  "word": "좋아하다",
+  "usage": "Diễn tả sở thích với người/vật (dùng với 을/를)",
+  "meaning": "Thích",
+  "pron": "[조아하다] jo-a-ha-da",
+  "example": "저는 운동을 좋아해요. (Tôi thích thể thao.)"
+ },
+ {
+  "id": 62,
+  "level": "TOPIK 1",
+  "word": "사다",
+  "usage": "Mua sắm ở cửa hàng, chợ",
+  "meaning": "Mua",
+  "pron": "[사다] sa-da",
+  "example": "옷을 사요. (Tôi mua quần áo.)"
+ },
+ {
+  "id": 63,
+  "level": "TOPIK 1",
+  "word": "주다",
+  "usage": "Đưa, tặng cho ai đó",
+  "meaning": "Cho, đưa, tặng",
+  "pron": "[주다] ju-da",
+  "example": "친구에게 선물을 줘요. (Tôi tặng quà cho bạn.)"
+ },
+ {
+  "id": 64,
+  "level": "TOPIK 1",
+  "word": "읽다",
+  "usage": "Đọc sách, báo, tin nhắn",
+  "meaning": "Đọc",
+  "pron": "[익따] ik-tta",
+  "example": "신문을 읽어요. (Tôi đọc báo.)"
+ },
+ {
+  "id": 65,
+  "level": "TOPIK 1",
+  "word": "쓰다",
+  "usage": "Viết chữ; cũng có nghĩa dùng, đội, đeo (tùy ngữ cảnh)",
+  "meaning": "Viết, dùng",
+  "pron": "[쓰다] sseu-da",
+  "example": "편지를 써요. (Tôi viết thư.)"
+ },
+ {
+  "id": 66,
+  "level": "TOPIK 1",
+  "word": "듣다",
+  "usage": "Nghe nhạc, nghe giảng, nghe ai nói",
+  "meaning": "Nghe",
+  "pron": "[듣따] deut-tta",
+  "example": "음악을 들어요. (Tôi nghe nhạc.)"
+ },
+ {
+  "id": 67,
+  "level": "TOPIK 1",
+  "word": "말하다",
+  "usage": "Nói, phát biểu, thông báo",
+  "meaning": "Nói",
+  "pron": "[말하다] mal-ha-da",
+  "example": "천천히 말해 주세요. (Xin hãy nói chậm thôi.)"
+ },
+ {
+  "id": 68,
+  "level": "TOPIK 1",
+  "word": "알다",
+  "usage": "Biết thông tin, nhận biết người",
+  "meaning": "Biết",
+  "pron": "[알다] al-da",
+  "example": "그 사람을 알아요. (Tôi biết người đó.)"
+ },
+ {
+  "id": 69,
+  "level": "TOPIK 1",
+  "word": "모르다",
+  "usage": "Không biết, không hiểu",
+  "meaning": "Không biết",
+  "pron": "[모르다] mo-reu-da",
+  "example": "답을 몰라요. (Tôi không biết đáp án.)"
+ },
+ {
+  "id": 70,
+  "level": "TOPIK 1",
+  "word": "있다",
+  "usage": "Chỉ sự tồn tại, sở hữu, ở đâu đó",
+  "meaning": "Có, ở",
+  "pron": "[읻따] it-tta",
+  "example": "집에 있어요. (Tôi ở nhà.)"
+ },
+ {
+  "id": 71,
+  "level": "TOPIK 1",
+  "word": "없다",
+  "usage": "Chỉ sự không tồn tại, không có",
+  "meaning": "Không có",
+  "pron": "[업따] eop-tta",
+  "example": "시간이 없어요. (Tôi không có thời gian.)"
+ },
+ {
+  "id": 72,
+  "level": "TOPIK 1",
+  "word": "살다",
+  "usage": "Nói về nơi cư trú, sống",
+  "meaning": "Sống, ở",
+  "pron": "[살다] sal-da",
+  "example": "서울에 살아요. (Tôi sống ở Seoul.)"
+ },
+ {
+  "id": 73,
+  "level": "TOPIK 1",
+  "word": "앉다",
+  "usage": "Yêu cầu/mô tả việc ngồi xuống",
+  "meaning": "Ngồi",
+  "pron": "[안따] an-tta",
+  "example": "여기에 앉으세요. (Xin mời ngồi đây.)"
+ },
+ {
+  "id": 74,
+  "level": "TOPIK 1",
+  "word": "일어나다",
+  "usage": "Thức dậy, đứng dậy, xảy ra",
+  "meaning": "Thức dậy, đứng dậy",
+  "pron": "[이러나다] i-reo-na-da",
+  "example": "아침 6시에 일어나요. (Tôi thức dậy lúc 6 giờ sáng.)"
+ },
+ {
+  "id": 75,
+  "level": "TOPIK 1",
+  "word": "기다리다",
+  "usage": "Chờ đợi người, xe, kết quả",
+  "meaning": "Chờ, đợi",
+  "pron": "[기다리다] gi-da-ri-da",
+  "example": "버스를 기다려요. (Tôi chờ xe buýt.)"
+ },
+ {
+  "id": 76,
+  "level": "TOPIK 1",
+  "word": "배우다",
+  "usage": "Học kỹ năng từ ai đó (học nghề, học nhạc)",
+  "meaning": "Học (từ ai)",
+  "pron": "[배우다] bae-u-da",
+  "example": "태권도를 배워요. (Tôi học taekwondo.)"
+ },
+ {
+  "id": 77,
+  "level": "TOPIK 1",
+  "word": "가르치다",
+  "usage": "Dạy học, hướng dẫn",
+  "meaning": "Dạy",
+  "pron": "[가르치다] ga-reu-chi-da",
+  "example": "영어를 가르쳐요. (Tôi dạy tiếng Anh.)"
+ },
+ {
+  "id": 78,
+  "level": "TOPIK 1",
+  "word": "열다",
+  "usage": "Mở cửa, cửa hàng, cửa sổ",
+  "meaning": "Mở",
+  "pron": "[열다] yeol-da",
+  "example": "창문을 열어요. (Tôi mở cửa sổ.)"
+ },
+ {
+  "id": 79,
+  "level": "TOPIK 1",
+  "word": "닫다",
+  "usage": "Đóng cửa, cửa sổ",
+  "meaning": "Đóng",
+  "pron": "[닫따] dat-tta",
+  "example": "문을 닫아요. (Tôi đóng cửa.)"
+ },
+ {
+  "id": 80,
+  "level": "TOPIK 1",
+  "word": "만들다",
+  "usage": "Nấu ăn, chế tạo, tạo ra",
+  "meaning": "Làm, tạo ra",
+  "pron": "[만들다] man-deul-da",
+  "example": "케이크를 만들어요. (Tôi làm bánh kem.)"
+ },
+ {
+  "id": 81,
+  "level": "TOPIK 1",
+  "word": "좋다",
+  "usage": "Khen, đánh giá tích cực",
+  "meaning": "Tốt, thích, hay",
+  "pron": "[조타] jo-ta",
+  "example": "날씨가 좋아요. (Thời tiết đẹp.)"
+ },
+ {
+  "id": 82,
+  "level": "TOPIK 1",
+  "word": "나쁘다",
+  "usage": "Đánh giá tiêu cực về chất lượng, tâm trạng",
+  "meaning": "Xấu, tệ",
+  "pron": "[나쁘다] na-ppeu-da",
+  "example": "기분이 나빠요. (Tâm trạng tôi tệ.)"
+ },
+ {
+  "id": 83,
+  "level": "TOPIK 1",
+  "word": "크다",
+  "usage": "Nói về kích thước, âm lượng",
+  "meaning": "Lớn, to",
+  "pron": "[크다] keu-da",
+  "example": "방이 커요. (Phòng rộng.)"
+ },
+ {
+  "id": 84,
+  "level": "TOPIK 1",
+  "word": "작다",
+  "usage": "Nói về kích thước nhỏ",
+  "meaning": "Nhỏ",
+  "pron": "[작따] jak-tta",
+  "example": "가방이 작아요. (Cái túi nhỏ.)"
+ },
+ {
+  "id": 85,
+  "level": "TOPIK 1",
+  "word": "많다",
+  "usage": "Nói về số lượng nhiều",
+  "meaning": "Nhiều",
+  "pron": "[만타] man-ta",
+  "example": "사람이 많아요. (Có nhiều người.)"
+ },
+ {
+  "id": 86,
+  "level": "TOPIK 1",
+  "word": "적다",
+  "usage": "Nói về số lượng ít",
+  "meaning": "Ít",
+  "pron": "[적따] jeok-tta",
+  "example": "돈이 적어요. (Tiền ít.)"
+ },
+ {
+  "id": 87,
+  "level": "TOPIK 1",
+  "word": "예쁘다",
+  "usage": "Khen người, đồ vật, cảnh đẹp",
+  "meaning": "Đẹp, xinh",
+  "pron": "[예쁘다] ye-ppeu-da",
+  "example": "꽃이 예뻐요. (Hoa đẹp.)"
+ },
+ {
+  "id": 88,
+  "level": "TOPIK 1",
+  "word": "맛있다",
+  "usage": "Khen món ăn ở nhà hàng, bữa ăn",
+  "meaning": "Ngon",
+  "pron": "[마딛따] ma-dit-tta",
+  "example": "이 음식이 맛있어요. (Món này ngon.)"
+ },
+ {
+  "id": 89,
+  "level": "TOPIK 1",
+  "word": "재미있다",
+  "usage": "Nói về phim, trò chơi, hoạt động thú vị",
+  "meaning": "Thú vị, vui",
+  "pron": "[재미읻따] jae-mi-it-tta",
+  "example": "한국어가 재미있어요. (Tiếng Hàn thú vị.)"
+ },
+ {
+  "id": 90,
+  "level": "TOPIK 1",
+  "word": "어렵다",
+  "usage": "Nói về bài tập, vấn đề khó",
+  "meaning": "Khó",
+  "pron": "[어렵따] eo-ryeop-tta",
+  "example": "시험이 어려워요. (Bài thi khó.)"
+ },
+ {
+  "id": 91,
+  "level": "TOPIK 1",
+  "word": "쉽다",
+  "usage": "Nói về việc dễ dàng",
+  "meaning": "Dễ",
+  "pron": "[쉽따] swip-tta",
+  "example": "문제가 쉬워요. (Bài toán dễ.)"
+ },
+ {
+  "id": 92,
+  "level": "TOPIK 1",
+  "word": "바쁘다",
+  "usage": "Nói về lịch trình bận rộn",
+  "meaning": "Bận",
+  "pron": "[바쁘다] ba-ppeu-da",
+  "example": "요즘 너무 바빠요. (Dạo này tôi rất bận.)"
+ },
+ {
+  "id": 93,
+  "level": "TOPIK 1",
+  "word": "춥다",
+  "usage": "Nói về thời tiết/cảm giác lạnh",
+  "meaning": "Lạnh",
+  "pron": "[춥따] chup-tta",
+  "example": "겨울에는 추워요. (Mùa đông thì lạnh.)"
+ },
+ {
+  "id": 94,
+  "level": "TOPIK 1",
+  "word": "덥다",
+  "usage": "Nói về thời tiết/cảm giác nóng",
+  "meaning": "Nóng",
+  "pron": "[덥따] deop-tta",
+  "example": "여름에는 더워요. (Mùa hè thì nóng.)"
+ },
+ {
+  "id": 95,
+  "level": "TOPIK 1",
+  "word": "비싸다",
+  "usage": "Nói về giá cả đắt",
+  "meaning": "Đắt",
+  "pron": "[비싸다] bi-ssa-da",
+  "example": "이 가방은 비싸요. (Cái túi này đắt.)"
+ },
+ {
+  "id": 96,
+  "level": "TOPIK 1",
+  "word": "싸다",
+  "usage": "Nói về giá cả rẻ",
+  "meaning": "Rẻ",
+  "pron": "[싸다] ssa-da",
+  "example": "시장은 물건이 싸요. (Đồ ở chợ rẻ.)"
+ },
+ {
+  "id": 97,
+  "level": "TOPIK 1",
+  "word": "멀다",
+  "usage": "Nói về khoảng cách xa",
+  "meaning": "Xa",
+  "pron": "[멀다] meol-da",
+  "example": "학교가 멀어요. (Trường ở xa.)"
+ },
+ {
+  "id": 98,
+  "level": "TOPIK 1",
+  "word": "가깝다",
+  "usage": "Nói về khoảng cách gần",
+  "meaning": "Gần",
+  "pron": "[가깝따] ga-kkap-tta",
+  "example": "집이 가까워요. (Nhà ở gần.)"
+ },
+ {
+  "id": 99,
+  "level": "TOPIK 1",
+  "word": "빠르다",
+  "usage": "Nói về tốc độ nhanh",
+  "meaning": "Nhanh",
+  "pron": "[빠르다] ppa-reu-da",
+  "example": "KTX는 빨라요. (Tàu KTX chạy nhanh.)"
+ },
+ {
+  "id": 100,
+  "level": "TOPIK 1",
+  "word": "느리다",
+  "usage": "Nói về tốc độ chậm",
+  "meaning": "Chậm",
+  "pron": "[느리다] neu-ri-da",
+  "example": "인터넷이 느려요. (Internet chậm.)"
+ },
+ {
+  "id": 101,
+  "level": "TOPIK 2",
+  "word": "경험",
+  "usage": "Nói về trải nghiệm, kinh nghiệm cá nhân/công việc",
+  "meaning": "Kinh nghiệm, trải nghiệm",
+  "pron": "[경험] gyeong-heom",
+  "example": "저는 한국에서 일한 경험이 있어요. (Tôi có kinh nghiệm làm việc ở Hàn Quốc.)"
+ },
+ {
+  "id": 102,
+  "level": "TOPIK 2",
+  "word": "계획",
+  "usage": "Nói về dự định, kế hoạch cho tương lai",
+  "meaning": "Kế hoạch",
+  "pron": "[계획] gye-hoek",
+  "example": "주말 계획이 있어요? (Bạn có kế hoạch cuối tuần không?)"
+ },
+ {
+  "id": 103,
+  "level": "TOPIK 2",
+  "word": "준비하다",
+  "usage": "Chuẩn bị cho kỳ thi, bữa ăn, chuyến đi",
+  "meaning": "Chuẩn bị",
+  "pron": "[준비하다] jun-bi-ha-da",
+  "example": "시험을 준비하고 있어요. (Tôi đang chuẩn bị cho kỳ thi.)"
+ },
+ {
+  "id": 104,
+  "level": "TOPIK 2",
+  "word": "연습하다",
+  "usage": "Luyện tập kỹ năng, phát âm, thể thao",
+  "meaning": "Luyện tập",
+  "pron": "[연스파다] yeon-seu-pa-da",
+  "example": "매일 한국어를 연습해요. (Mỗi ngày tôi luyện tiếng Hàn.)"
+ },
+ {
+  "id": 105,
+  "level": "TOPIK 2",
+  "word": "약속",
+  "usage": "Hẹn gặp hoặc lời hứa",
+  "meaning": "Cuộc hẹn, lời hứa",
+  "pron": "[약쏙] yak-ssok",
+  "example": "오늘 저녁에 약속이 있어요. (Tối nay tôi có hẹn.)"
+ },
+ {
+  "id": 106,
+  "level": "TOPIK 2",
+  "word": "여행",
+  "usage": "Nói về du lịch, chuyến đi",
+  "meaning": "Du lịch",
+  "pron": "[여행] yeo-haeng",
+  "example": "제주도로 여행을 갔어요. (Tôi đã đi du lịch đảo Jeju.)"
+ },
+ {
+  "id": 107,
+  "level": "TOPIK 2",
+  "word": "예약하다",
+  "usage": "Đặt chỗ nhà hàng, khách sạn, vé",
+  "meaning": "Đặt trước",
+  "pron": "[예야카다] ye-ya-ka-da",
+  "example": "식당을 예약했어요. (Tôi đã đặt bàn ở nhà hàng.)"
+ },
+ {
+  "id": 108,
+  "level": "TOPIK 2",
+  "word": "취미",
+  "usage": "Hỏi/giới thiệu sở thích",
+  "meaning": "Sở thích",
+  "pron": "[취미] chwi-mi",
+  "example": "제 취미는 사진 찍기예요. (Sở thích của tôi là chụp ảnh.)"
+ },
+ {
+  "id": 109,
+  "level": "TOPIK 2",
+  "word": "운동",
+  "usage": "Nói về thể dục thể thao",
+  "meaning": "Vận động, thể thao",
+  "pron": "[운동] un-dong",
+  "example": "저녁마다 운동을 해요. (Tối nào tôi cũng tập thể dục.)"
+ },
+ {
+  "id": 110,
+  "level": "TOPIK 2",
+  "word": "건강",
+  "usage": "Nói về sức khỏe, thường dùng khi chúc/quan tâm",
+  "meaning": "Sức khỏe",
+  "pron": "[건강] geon-gang",
+  "example": "건강이 제일 중요해요. (Sức khỏe là quan trọng nhất.)"
+ },
+ {
+  "id": 111,
+  "level": "TOPIK 2",
+  "word": "병원",
+  "usage": "Nói về đi khám bệnh",
+  "meaning": "Bệnh viện",
+  "pron": "[병원] byeong-won",
+  "example": "배가 아파서 병원에 갔어요. (Tôi đau bụng nên đã đi bệnh viện.)"
+ },
+ {
+  "id": 112,
+  "level": "TOPIK 2",
+  "word": "약",
+  "usage": "Nói về thuốc uống, thuốc bôi",
+  "meaning": "Thuốc",
+  "pron": "[약] yak",
+  "example": "약을 먹고 푹 쉬세요. (Hãy uống thuốc và nghỉ ngơi thật kỹ.)"
+ },
+ {
+  "id": 113,
+  "level": "TOPIK 2",
+  "word": "아프다",
+  "usage": "Diễn tả đau ốm, đau nhức",
+  "meaning": "Đau, ốm",
+  "pron": "[아프다] a-peu-da",
+  "example": "머리가 아파요. (Tôi đau đầu.)"
+ },
+ {
+  "id": 114,
+  "level": "TOPIK 2",
+  "word": "감기",
+  "usage": "Nói về bệnh cảm cúm thông thường",
+  "meaning": "Cảm lạnh",
+  "pron": "[감기] gam-gi",
+  "example": "감기에 걸렸어요. (Tôi bị cảm.)"
+ },
+ {
+  "id": 115,
+  "level": "TOPIK 2",
+  "word": "피곤하다",
+  "usage": "Diễn tả sự mệt mỏi sau làm việc",
+  "meaning": "Mệt mỏi",
+  "pron": "[피곤하다] pi-gon-ha-da",
+  "example": "어제 잠을 못 자서 피곤해요. (Hôm qua tôi không ngủ được nên mệt.)"
+ },
+ {
+  "id": 116,
+  "level": "TOPIK 2",
+  "word": "걱정하다",
+  "usage": "Diễn tả lo lắng cho bản thân/người khác",
+  "meaning": "Lo lắng",
+  "pron": "[걱쩡하다] geok-jjeong-ha-da",
+  "example": "부모님이 저를 걱정해요. (Bố mẹ lo lắng cho tôi.)"
+ },
+ {
+  "id": 117,
+  "level": "TOPIK 2",
+  "word": "기분",
+  "usage": "Nói về tâm trạng, cảm xúc lúc này",
+  "meaning": "Tâm trạng",
+  "pron": "[기분] gi-bun",
+  "example": "오늘 기분이 좋아요. (Hôm nay tâm trạng tôi tốt.)"
+ },
+ {
+  "id": 118,
+  "level": "TOPIK 2",
+  "word": "생각하다",
+  "usage": "Diễn tả suy nghĩ, ý kiến",
+  "meaning": "Nghĩ",
+  "pron": "[생가카다] saeng-ga-ka-da",
+  "example": "저는 그렇게 생각해요. (Tôi nghĩ như vậy.)"
+ },
+ {
+  "id": 119,
+  "level": "TOPIK 2",
+  "word": "사용하다",
+  "usage": "Dùng đồ vật, công cụ (trang trọng hơn 쓰다)",
+  "meaning": "Sử dụng",
+  "pron": "[사용하다] sa-yong-ha-da",
+  "example": "이 앱을 사용해 보세요. (Hãy thử dùng ứng dụng này.)"
+ },
+ {
+  "id": 120,
+  "level": "TOPIK 2",
+  "word": "이용하다",
+  "usage": "Dùng dịch vụ, phương tiện, cơ sở vật chất",
+  "meaning": "Sử dụng (dịch vụ)",
+  "pron": "[이용하다] i-yong-ha-da",
+  "example": "지하철을 이용해요. (Tôi đi tàu điện ngầm.)"
+ },
+ {
+  "id": 121,
+  "level": "TOPIK 2",
+  "word": "필요하다",
+  "usage": "Diễn tả nhu cầu, cần thiết",
+  "meaning": "Cần thiết",
+  "pron": "[피료하다] pi-ryo-ha-da",
+  "example": "도움이 필요해요. (Tôi cần sự giúp đỡ.)"
+ },
+ {
+  "id": 122,
+  "level": "TOPIK 2",
+  "word": "도착하다",
+  "usage": "Nói về việc đến nơi",
+  "meaning": "Đến nơi",
+  "pron": "[도차카다] do-cha-ka-da",
+  "example": "공항에 도착했어요. (Tôi đã đến sân bay.)"
+ },
+ {
+  "id": 123,
+  "level": "TOPIK 2",
+  "word": "출발하다",
+  "usage": "Nói về khởi hành, xuất phát",
+  "meaning": "Xuất phát",
+  "pron": "[출발하다] chul-bal-ha-da",
+  "example": "기차가 10시에 출발해요. (Tàu xuất phát lúc 10 giờ.)"
+ },
+ {
+  "id": 124,
+  "level": "TOPIK 2",
+  "word": "교통",
+  "usage": "Nói về giao thông, phương tiện đi lại",
+  "meaning": "Giao thông",
+  "pron": "[교통] gyo-tong",
+  "example": "서울은 교통이 편리해요. (Giao thông Seoul thuận tiện.)"
+ },
+ {
+  "id": 125,
+  "level": "TOPIK 2",
+  "word": "지하철",
+  "usage": "Nói về đi lại trong thành phố",
+  "meaning": "Tàu điện ngầm",
+  "pron": "[지하철] ji-ha-cheol",
+  "example": "지하철로 출근해요. (Tôi đi làm bằng tàu điện ngầm.)"
+ },
+ {
+  "id": 126,
+  "level": "TOPIK 2",
+  "word": "버스",
+  "usage": "Nói về xe buýt",
+  "meaning": "Xe buýt",
+  "pron": "[버스] beo-seu",
+  "example": "버스 정류장이 어디예요? (Trạm xe buýt ở đâu?)"
+ },
+ {
+  "id": 127,
+  "level": "TOPIK 2",
+  "word": "길",
+  "usage": "Hỏi đường, nói về con đường",
+  "meaning": "Đường",
+  "pron": "[길] gil",
+  "example": "길을 잃어버렸어요. (Tôi bị lạc đường.)"
+ },
+ {
+  "id": 128,
+  "level": "TOPIK 2",
+  "word": "신호등",
+  "usage": "Nói về đèn giao thông",
+  "meaning": "Đèn giao thông",
+  "pron": "[신호등] sin-ho-deung",
+  "example": "신호등이 빨간색이에요. (Đèn giao thông đang đỏ.)"
+ },
+ {
+  "id": 129,
+  "level": "TOPIK 2",
+  "word": "주차하다",
+  "usage": "Đỗ xe",
+  "meaning": "Đỗ xe",
+  "pron": "[주차하다] ju-cha-ha-da",
+  "example": "여기에 주차하지 마세요. (Xin đừng đỗ xe ở đây.)"
+ },
+ {
+  "id": 130,
+  "level": "TOPIK 2",
+  "word": "이사하다",
+  "usage": "Chuyển nhà",
+  "meaning": "Chuyển nhà",
+  "pron": "[이사하다] i-sa-ha-da",
+  "example": "다음 달에 이사해요. (Tháng sau tôi chuyển nhà.)"
+ },
+ {
+  "id": 131,
+  "level": "TOPIK 2",
+  "word": "소개하다",
+  "usage": "Giới thiệu bản thân, người khác, sản phẩm",
+  "meaning": "Giới thiệu",
+  "pron": "[소개하다] so-gae-ha-da",
+  "example": "친구를 소개해 줄게요. (Tôi sẽ giới thiệu bạn cho bạn.)"
+ },
+ {
+  "id": 132,
+  "level": "TOPIK 2",
+  "word": "초대하다",
+  "usage": "Mời ai đến nhà, bữa tiệc",
+  "meaning": "Mời",
+  "pron": "[초대하다] cho-dae-ha-da",
+  "example": "생일 파티에 초대했어요. (Tôi đã mời đến tiệc sinh nhật.)"
+ },
+ {
+  "id": 133,
+  "level": "TOPIK 2",
+  "word": "선물",
+  "usage": "Tặng quà dịp lễ, sinh nhật",
+  "meaning": "Quà tặng",
+  "pron": "[선물] seon-mul",
+  "example": "어머니께 선물을 드렸어요. (Tôi đã tặng quà cho mẹ.)"
+ },
+ {
+  "id": 134,
+  "level": "TOPIK 2",
+  "word": "결혼",
+  "usage": "Nói về hôn nhân, đám cưới",
+  "meaning": "Kết hôn",
+  "pron": "[결혼] gyeol-hon",
+  "example": "다음 달에 결혼해요. (Tháng sau tôi kết hôn.)"
+ },
+ {
+  "id": 135,
+  "level": "TOPIK 2",
+  "word": "생일",
+  "usage": "Nói về sinh nhật",
+  "meaning": "Sinh nhật",
+  "pron": "[생일] saeng-il",
+  "example": "생일 축하해요! (Chúc mừng sinh nhật!)"
+ },
+ {
+  "id": 136,
+  "level": "TOPIK 2",
+  "word": "축하하다",
+  "usage": "Chúc mừng thành tích, dịp vui",
+  "meaning": "Chúc mừng",
+  "pron": "[추카하다] chu-ka-ha-da",
+  "example": "합격을 축하합니다. (Chúc mừng bạn đã đỗ.)"
+ },
+ {
+  "id": 137,
+  "level": "TOPIK 2",
+  "word": "인사하다",
+  "usage": "Chào hỏi khi gặp/chia tay",
+  "meaning": "Chào hỏi",
+  "pron": "[인사하다] in-sa-ha-da",
+  "example": "선생님께 인사했어요. (Tôi đã chào thầy cô.)"
+ },
+ {
+  "id": 138,
+  "level": "TOPIK 2",
+  "word": "부탁하다",
+  "usage": "Nhờ vả, yêu cầu ai làm gì",
+  "meaning": "Nhờ, đề nghị",
+  "pron": "[부타카다] bu-ta-ka-da",
+  "example": "친구에게 도움을 부탁했어요. (Tôi đã nhờ bạn giúp đỡ.)"
+ },
+ {
+  "id": 139,
+  "level": "TOPIK 2",
+  "word": "질문하다",
+  "usage": "Đặt câu hỏi trong lớp, cuộc họp",
+  "meaning": "Đặt câu hỏi",
+  "pron": "[질문하다] jil-mun-ha-da",
+  "example": "모르면 질문하세요. (Nếu không biết hãy hỏi.)"
+ },
+ {
+  "id": 140,
+  "level": "TOPIK 2",
+  "word": "대답하다",
+  "usage": "Trả lời câu hỏi",
+  "meaning": "Trả lời",
+  "pron": "[대다파다] dae-da-pa-da",
+  "example": "질문에 대답해 주세요. (Xin hãy trả lời câu hỏi.)"
+ },
+ {
+  "id": 141,
+  "level": "TOPIK 2",
+  "word": "설명하다",
+  "usage": "Giải thích cho người khác hiểu",
+  "meaning": "Giải thích",
+  "pron": "[설명하다] seol-myeong-ha-da",
+  "example": "문법을 설명해 주세요. (Xin hãy giải thích ngữ pháp.)"
+ },
+ {
+  "id": 142,
+  "level": "TOPIK 2",
+  "word": "이해하다",
+  "usage": "Hiểu nội dung, thông cảm cho ai",
+  "meaning": "Hiểu",
+  "pron": "[이해하다] i-hae-ha-da",
+  "example": "무슨 말인지 이해했어요. (Tôi đã hiểu ý là gì.)"
+ },
+ {
+  "id": 143,
+  "level": "TOPIK 2",
+  "word": "잊어버리다",
+  "usage": "Quên mất (nhấn mạnh việc đã quên)",
+  "meaning": "Quên mất",
+  "pron": "[이저버리다] i-jeo-beo-ri-da",
+  "example": "약속을 잊어버렸어요. (Tôi quên mất cuộc hẹn.)"
+ },
+ {
+  "id": 144,
+  "level": "TOPIK 2",
+  "word": "기억하다",
+  "usage": "Nhớ lại, ghi nhớ",
+  "meaning": "Nhớ",
+  "pron": "[기어카다] gi-eo-ka-da",
+  "example": "그 사람 이름을 기억해요? (Bạn có nhớ tên người đó không?)"
+ },
+ {
+  "id": 145,
+  "level": "TOPIK 2",
+  "word": "발음",
+  "usage": "Nói về cách phát âm khi học ngôn ngữ",
+  "meaning": "Phát âm",
+  "pron": "[바름] ba-reum",
+  "example": "발음이 정확해요. (Phát âm chuẩn xác.)"
+ },
+ {
+  "id": 146,
+  "level": "TOPIK 2",
+  "word": "숙제",
+  "usage": "Bài tập về nhà của học sinh",
+  "meaning": "Bài tập về nhà",
+  "pron": "[숙쩨] suk-jje",
+  "example": "숙제를 다 했어요. (Tôi đã làm xong bài tập.)"
+ },
+ {
+  "id": 147,
+  "level": "TOPIK 2",
+  "word": "시험",
+  "usage": "Nói về kỳ thi, bài kiểm tra",
+  "meaning": "Kỳ thi",
+  "pron": "[시험] si-heom",
+  "example": "내일 시험이 있어요. (Ngày mai có kỳ thi.)"
+ },
+ {
+  "id": 148,
+  "level": "TOPIK 2",
+  "word": "성적",
+  "usage": "Nói về điểm số, thành tích học tập",
+  "meaning": "Thành tích, điểm số",
+  "pron": "[성쩍] seong-jjeok",
+  "example": "성적이 올랐어요. (Điểm số đã tăng lên.)"
+ },
+ {
+  "id": 149,
+  "level": "TOPIK 2",
+  "word": "합격하다",
+  "usage": "Đỗ kỳ thi, tuyển dụng",
+  "meaning": "Đỗ, trúng tuyển",
+  "pron": "[합껴카다] hap-kkyeo-ka-da",
+  "example": "시험에 합격했어요. (Tôi đã đỗ kỳ thi.)"
+ },
+ {
+  "id": 150,
+  "level": "TOPIK 2",
+  "word": "졸업하다",
+  "usage": "Tốt nghiệp trường",
+  "meaning": "Tốt nghiệp",
+  "pron": "[조러파다] jo-reo-pa-da",
+  "example": "작년에 대학교를 졸업했어요. (Năm ngoái tôi tốt nghiệp đại học.)"
+ },
+ {
+  "id": 151,
+  "level": "TOPIK 2",
+  "word": "입학하다",
+  "usage": "Nhập học",
+  "meaning": "Nhập học",
+  "pron": "[이파카다] i-pa-ka-da",
+  "example": "올해 대학교에 입학했어요. (Năm nay tôi nhập học đại học.)"
+ },
+ {
+  "id": 152,
+  "level": "TOPIK 2",
+  "word": "대학교",
+  "usage": "Nói về trường đại học",
+  "meaning": "Trường đại học",
+  "pron": "[대학교] dae-hak-gyo",
+  "example": "서울대학교에 다녀요. (Tôi học ở Đại học Seoul.)"
+ },
+ {
+  "id": 153,
+  "level": "TOPIK 2",
+  "word": "전공",
+  "usage": "Nói về chuyên ngành học",
+  "meaning": "Chuyên ngành",
+  "pron": "[전공] jeon-gong",
+  "example": "전공이 뭐예요? (Chuyên ngành của bạn là gì?)"
+ },
+ {
+  "id": 154,
+  "level": "TOPIK 2",
+  "word": "수업",
+  "usage": "Nói về tiết học, giờ học",
+  "meaning": "Buổi học, giờ học",
+  "pron": "[수업] su-eop",
+  "example": "수업이 9시에 시작해요. (Giờ học bắt đầu lúc 9 giờ.)"
+ },
+ {
+  "id": 155,
+  "level": "TOPIK 2",
+  "word": "발표하다",
+  "usage": "Thuyết trình, công bố kết quả",
+  "meaning": "Thuyết trình, công bố",
+  "pron": "[발표하다] bal-pyo-ha-da",
+  "example": "내일 수업에서 발표해요. (Ngày mai tôi thuyết trình trong lớp.)"
+ },
+ {
+  "id": 156,
+  "level": "TOPIK 2",
+  "word": "도서관",
+  "usage": "Nói về thư viện",
+  "meaning": "Thư viện",
+  "pron": "[도서관] do-seo-gwan",
+  "example": "도서관에서 공부해요. (Tôi học ở thư viện.)"
+ },
+ {
+  "id": 157,
+  "level": "TOPIK 2",
+  "word": "회의",
+  "usage": "Nói về cuộc họp công việc",
+  "meaning": "Cuộc họp",
+  "pron": "[회의] hoe-ui",
+  "example": "오후에 회의가 있어요. (Chiều nay có cuộc họp.)"
+ },
+ {
+  "id": 158,
+  "level": "TOPIK 2",
+  "word": "출근하다",
+  "usage": "Đi làm buổi sáng",
+  "meaning": "Đi làm",
+  "pron": "[출근하다] chul-geun-ha-da",
+  "example": "매일 8시에 출근해요. (Mỗi ngày tôi đi làm lúc 8 giờ.)"
+ },
+ {
+  "id": 159,
+  "level": "TOPIK 2",
+  "word": "퇴근하다",
+  "usage": "Tan làm",
+  "meaning": "Tan làm",
+  "pron": "[퇴근하다] toe-geun-ha-da",
+  "example": "6시에 퇴근해요. (Tôi tan làm lúc 6 giờ.)"
+ },
+ {
+  "id": 160,
+  "level": "TOPIK 2",
+  "word": "월급",
+  "usage": "Nói về lương hàng tháng",
+  "meaning": "Lương tháng",
+  "pron": "[월급] wol-geup",
+  "example": "월급날이 기다려져요. (Tôi mong đến ngày nhận lương.)"
+ },
+ {
+  "id": 161,
+  "level": "TOPIK 2",
+  "word": "직업",
+  "usage": "Hỏi/nói về nghề nghiệp",
+  "meaning": "Nghề nghiệp",
+  "pron": "[지겁] ji-geop",
+  "example": "직업이 뭐예요? (Nghề nghiệp của bạn là gì?)"
+ },
+ {
+  "id": 162,
+  "level": "TOPIK 2",
+  "word": "직장",
+  "usage": "Nói về nơi làm việc, chỗ làm",
+  "meaning": "Nơi làm việc",
+  "pron": "[직짱] jik-jjang",
+  "example": "새 직장을 찾고 있어요. (Tôi đang tìm chỗ làm mới.)"
+ },
+ {
+  "id": 163,
+  "level": "TOPIK 2",
+  "word": "사무실",
+  "usage": "Nói về văn phòng",
+  "meaning": "Văn phòng",
+  "pron": "[사무실] sa-mu-sil",
+  "example": "사무실에서 일해요. (Tôi làm việc trong văn phòng.)"
+ },
+ {
+  "id": 164,
+  "level": "TOPIK 2",
+  "word": "동료",
+  "usage": "Nói về đồng nghiệp",
+  "meaning": "Đồng nghiệp",
+  "pron": "[동료] dong-nyo",
+  "example": "동료와 점심을 먹었어요. (Tôi ăn trưa với đồng nghiệp.)"
+ },
+ {
+  "id": 165,
+  "level": "TOPIK 2",
+  "word": "손님",
+  "usage": "Nói về khách hàng, khách đến nhà",
+  "meaning": "Khách",
+  "pron": "[손님] son-nim",
+  "example": "손님이 많이 왔어요. (Khách đến rất đông.)"
+ },
+ {
+  "id": 166,
+  "level": "TOPIK 2",
+  "word": "주문하다",
+  "usage": "Gọi món, đặt hàng",
+  "meaning": "Gọi món, đặt hàng",
+  "pron": "[주문하다] ju-mun-ha-da",
+  "example": "커피를 주문했어요. (Tôi đã gọi cà phê.)"
+ },
+ {
+  "id": 167,
+  "level": "TOPIK 2",
+  "word": "메뉴",
+  "usage": "Nói về thực đơn nhà hàng",
+  "meaning": "Thực đơn",
+  "pron": "[메뉴] me-nyu",
+  "example": "메뉴 좀 보여 주세요. (Cho tôi xem thực đơn.)"
+ },
+ {
+  "id": 168,
+  "level": "TOPIK 2",
+  "word": "계산하다",
+  "usage": "Thanh toán, tính tiền",
+  "meaning": "Thanh toán",
+  "pron": "[계산하다] gye-san-ha-da",
+  "example": "제가 계산할게요. (Để tôi thanh toán.)"
+ },
+ {
+  "id": 169,
+  "level": "TOPIK 2",
+  "word": "할인",
+  "usage": "Nói về giảm giá khi mua sắm",
+  "meaning": "Giảm giá",
+  "pron": "[하린] ha-rin",
+  "example": "오늘 20% 할인해요. (Hôm nay giảm 20%.)"
+ },
+ {
+  "id": 170,
+  "level": "TOPIK 2",
+  "word": "가격",
+  "usage": "Hỏi/nói về giá của sản phẩm",
+  "meaning": "Giá cả",
+  "pron": "[가격] ga-gyeok",
+  "example": "가격이 너무 비싸요. (Giá đắt quá.)"
+ },
+ {
+  "id": 171,
+  "level": "TOPIK 2",
+  "word": "물건",
+  "usage": "Chỉ đồ vật, hàng hóa nói chung",
+  "meaning": "Đồ vật, hàng hóa",
+  "pron": "[물건] mul-geon",
+  "example": "물건을 사러 시장에 가요. (Tôi đi chợ mua đồ.)"
+ },
+ {
+  "id": 172,
+  "level": "TOPIK 2",
+  "word": "시장",
+  "usage": "Nói về chợ truyền thống",
+  "meaning": "Chợ",
+  "pron": "[시장] si-jang",
+  "example": "시장에서 과일을 샀어요. (Tôi mua trái cây ở chợ.)"
+ },
+ {
+  "id": 173,
+  "level": "TOPIK 2",
+  "word": "백화점",
+  "usage": "Nói về trung tâm bách hóa lớn",
+  "meaning": "Trung tâm bách hóa",
+  "pron": "[배콰점] bae-kwa-jeom",
+  "example": "백화점에서 옷을 샀어요. (Tôi mua quần áo ở trung tâm bách hóa.)"
+ },
+ {
+  "id": 174,
+  "level": "TOPIK 2",
+  "word": "쇼핑하다",
+  "usage": "Đi mua sắm, dạo phố",
+  "meaning": "Mua sắm",
+  "pron": "[쇼핑하다] syo-ping-ha-da",
+  "example": "주말에 친구와 쇼핑해요. (Cuối tuần tôi đi mua sắm với bạn.)"
+ },
+ {
+  "id": 175,
+  "level": "TOPIK 2",
+  "word": "환불하다",
+  "usage": "Trả hàng, lấy lại tiền",
+  "meaning": "Hoàn tiền",
+  "pron": "[환불하다] hwan-bul-ha-da",
+  "example": "옷을 환불하고 싶어요. (Tôi muốn hoàn tiền bộ quần áo.)"
+ },
+ {
+  "id": 176,
+  "level": "TOPIK 2",
+  "word": "교환하다",
+  "usage": "Đổi hàng, trao đổi",
+  "meaning": "Đổi",
+  "pron": "[교환하다] gyo-hwan-ha-da",
+  "example": "사이즈를 교환할 수 있어요? (Tôi có thể đổi cỡ được không?)"
+ },
+ {
+  "id": 177,
+  "level": "TOPIK 2",
+  "word": "배달하다",
+  "usage": "Giao hàng, giao đồ ăn",
+  "meaning": "Giao hàng",
+  "pron": "[배달하다] bae-dal-ha-da",
+  "example": "치킨을 배달해 주세요. (Xin hãy giao gà rán giúp tôi.)"
+ },
+ {
+  "id": 178,
+  "level": "TOPIK 2",
+  "word": "포장하다",
+  "usage": "Gói hàng, mang về",
+  "meaning": "Gói, đóng gói",
+  "pron": "[포장하다] po-jang-ha-da",
+  "example": "선물을 예쁘게 포장해 주세요. (Xin gói quà thật đẹp giúp tôi.)"
+ },
+ {
+  "id": 179,
+  "level": "TOPIK 2",
+  "word": "청소하다",
+  "usage": "Dọn dẹp nhà cửa",
+  "meaning": "Dọn dẹp",
+  "pron": "[청소하다] cheong-so-ha-da",
+  "example": "주말에 방을 청소해요. (Cuối tuần tôi dọn phòng.)"
+ },
+ {
+  "id": 180,
+  "level": "TOPIK 2",
+  "word": "빨래하다",
+  "usage": "Giặt quần áo",
+  "meaning": "Giặt đồ",
+  "pron": "[빨래하다] ppal-lae-ha-da",
+  "example": "일요일에 빨래해요. (Chủ nhật tôi giặt đồ.)"
+ },
+ {
+  "id": 181,
+  "level": "TOPIK 2",
+  "word": "설거지하다",
+  "usage": "Rửa bát đĩa sau bữa ăn",
+  "meaning": "Rửa bát",
+  "pron": "[설거지하다] seol-geo-ji-ha-da",
+  "example": "저녁 먹고 설거지했어요. (Ăn tối xong tôi rửa bát.)"
+ },
+ {
+  "id": 182,
+  "level": "TOPIK 2",
+  "word": "요리하다",
+  "usage": "Nấu ăn",
+  "meaning": "Nấu ăn",
+  "pron": "[요리하다] yo-ri-ha-da",
+  "example": "가족을 위해 요리해요. (Tôi nấu ăn cho gia đình.)"
+ },
+ {
+  "id": 183,
+  "level": "TOPIK 2",
+  "word": "냉장고",
+  "usage": "Nói về tủ lạnh",
+  "meaning": "Tủ lạnh",
+  "pron": "[냉장고] naeng-jang-go",
+  "example": "우유를 냉장고에 넣었어요. (Tôi để sữa vào tủ lạnh.)"
+ },
+ {
+  "id": 184,
+  "level": "TOPIK 2",
+  "word": "세탁기",
+  "usage": "Nói về máy giặt",
+  "meaning": "Máy giặt",
+  "pron": "[세탁끼] se-tak-kki",
+  "example": "세탁기가 고장 났어요. (Máy giặt bị hỏng.)"
+ },
+ {
+  "id": 185,
+  "level": "TOPIK 2",
+  "word": "컴퓨터",
+  "usage": "Nói về máy tính",
+  "meaning": "Máy tính",
+  "pron": "[컴퓨터] keom-pyu-teo",
+  "example": "컴퓨터로 일해요. (Tôi làm việc bằng máy tính.)"
+ },
+ {
+  "id": 186,
+  "level": "TOPIK 2",
+  "word": "인터넷",
+  "usage": "Nói về mạng internet",
+  "meaning": "Internet",
+  "pron": "[인터넫] in-teo-net",
+  "example": "인터넷으로 검색해요. (Tôi tìm kiếm trên internet.)"
+ },
+ {
+  "id": 187,
+  "level": "TOPIK 2",
+  "word": "휴대폰",
+  "usage": "Nói về điện thoại di động",
+  "meaning": "Điện thoại di động",
+  "pron": "[휴대폰] hyu-dae-pon",
+  "example": "휴대폰을 잃어버렸어요. (Tôi làm mất điện thoại.)"
+ },
+ {
+  "id": 188,
+  "level": "TOPIK 2",
+  "word": "문자",
+  "usage": "Nhắn tin SMS, ký tự",
+  "meaning": "Tin nhắn, chữ",
+  "pron": "[문짜] mun-jja",
+  "example": "문자를 보냈어요. (Tôi đã gửi tin nhắn.)"
+ },
+ {
+  "id": 189,
+  "level": "TOPIK 2",
+  "word": "메일",
+  "usage": "Nói về thư điện tử",
+  "meaning": "Email",
+  "pron": "[메일] me-il",
+  "example": "메일을 확인했어요. (Tôi đã kiểm tra email.)"
+ },
+ {
+  "id": 190,
+  "level": "TOPIK 2",
+  "word": "사진",
+  "usage": "Chụp ảnh, ảnh kỷ niệm",
+  "meaning": "Ảnh",
+  "pron": "[사진] sa-jin",
+  "example": "사진을 찍어도 돼요? (Tôi chụp ảnh được không?)"
+ },
+ {
+  "id": 191,
+  "level": "TOPIK 2",
+  "word": "그림",
+  "usage": "Nói về tranh vẽ, hội họa",
+  "meaning": "Tranh, bức vẽ",
+  "pron": "[그림] geu-rim",
+  "example": "그림 그리는 것을 좋아해요. (Tôi thích vẽ tranh.)"
+ },
+ {
+  "id": 192,
+  "level": "TOPIK 2",
+  "word": "공연",
+  "usage": "Nói về buổi biểu diễn, hòa nhạc",
+  "meaning": "Buổi biểu diễn",
+  "pron": "[공연] gong-yeon",
+  "example": "콘서트 공연을 봤어요. (Tôi đã xem buổi hòa nhạc.)"
+ },
+ {
+  "id": 193,
+  "level": "TOPIK 2",
+  "word": "박물관",
+  "usage": "Nói về bảo tàng khi đi tham quan",
+  "meaning": "Bảo tàng",
+  "pron": "[방물관] bang-mul-gwan",
+  "example": "박물관에서 역사를 배웠어요. (Tôi học lịch sử ở bảo tàng.)"
+ },
+ {
+  "id": 194,
+  "level": "TOPIK 2",
+  "word": "공원",
+  "usage": "Nói về công viên, đi dạo",
+  "meaning": "Công viên",
+  "pron": "[공원] gong-won",
+  "example": "공원에서 산책해요. (Tôi đi dạo ở công viên.)"
+ },
+ {
+  "id": 195,
+  "level": "TOPIK 2",
+  "word": "경치",
+  "usage": "Khen cảnh đẹp thiên nhiên",
+  "meaning": "Phong cảnh",
+  "pron": "[경치] gyeong-chi",
+  "example": "산의 경치가 아름다워요. (Phong cảnh núi thật đẹp.)"
+ },
+ {
+  "id": 196,
+  "level": "TOPIK 2",
+  "word": "관광",
+  "usage": "Nói về du lịch tham quan",
+  "meaning": "Tham quan, du lịch",
+  "pron": "[관광] gwan-gwang",
+  "example": "서울을 관광했어요. (Tôi đã tham quan Seoul.)"
+ },
+ {
+  "id": 197,
+  "level": "TOPIK 2",
+  "word": "외국",
+  "usage": "Nói về nước ngoài",
+  "meaning": "Nước ngoài",
+  "pron": "[외국] oe-guk",
+  "example": "외국에서 살고 싶어요. (Tôi muốn sống ở nước ngoài.)"
+ },
+ {
+  "id": 198,
+  "level": "TOPIK 2",
+  "word": "문화",
+  "usage": "Nói về văn hóa, phong tục",
+  "meaning": "Văn hóa",
+  "pron": "[문화] mun-hwa",
+  "example": "한국 문화를 배워요. (Tôi học văn hóa Hàn Quốc.)"
+ },
+ {
+  "id": 199,
+  "level": "TOPIK 2",
+  "word": "전통",
+  "usage": "Nói về truyền thống, cổ truyền",
+  "meaning": "Truyền thống",
+  "pron": "[전통] jeon-tong",
+  "example": "전통 음식을 먹어 봤어요. (Tôi đã thử món ăn truyền thống.)"
+ },
+ {
+  "id": 200,
+  "level": "TOPIK 2",
+  "word": "명절",
+  "usage": "Nói về ngày lễ lớn (Tết, Chuseok)",
+  "meaning": "Ngày lễ lớn",
+  "pron": "[명절] myeong-jeol",
+  "example": "명절에 고향에 가요. (Dịp lễ lớn tôi về quê.)"
+ },
+ {
+  "id": 201,
+  "level": "TOPIK 2",
+  "word": "날짜",
+  "usage": "Hỏi về ngày tháng cụ thể",
+  "meaning": "Ngày tháng",
+  "pron": "[날짜] nal-jja",
+  "example": "오늘 날짜가 며칠이에요? (Hôm nay là ngày mấy?)"
+ },
+ {
+  "id": 202,
+  "level": "TOPIK 2",
+  "word": "요일",
+  "usage": "Hỏi/nói về thứ trong tuần",
+  "meaning": "Thứ (trong tuần)",
+  "pron": "[요일] yo-il",
+  "example": "오늘은 무슨 요일이에요? (Hôm nay là thứ mấy?)"
+ },
+ {
+  "id": 203,
+  "level": "TOPIK 2",
+  "word": "계절",
+  "usage": "Nói về bốn mùa trong năm",
+  "meaning": "Mùa",
+  "pron": "[계절] gye-jeol",
+  "example": "어느 계절을 좋아해요? (Bạn thích mùa nào?)"
+ },
+ {
+  "id": 204,
+  "level": "TOPIK 2",
+  "word": "기온",
+  "usage": "Nói về nhiệt độ không khí trong dự báo",
+  "meaning": "Nhiệt độ",
+  "pron": "[기온] gi-on",
+  "example": "기온이 많이 떨어졌어요. (Nhiệt độ đã giảm nhiều.)"
+ },
+ {
+  "id": 205,
+  "level": "TOPIK 2",
+  "word": "눈",
+  "usage": "Nói về tuyết (khác với 눈 là mắt, nghĩa tùy ngữ cảnh)",
+  "meaning": "Tuyết, mắt",
+  "pron": "[눈] nun",
+  "example": "눈이 많이 와요. (Tuyết rơi nhiều.)"
+ },
+ {
+  "id": 206,
+  "level": "TOPIK 2",
+  "word": "바람",
+  "usage": "Nói về gió trong thời tiết",
+  "meaning": "Gió",
+  "pron": "[바람] ba-ram",
+  "example": "바람이 세게 불어요. (Gió thổi mạnh.)"
+ },
+ {
+  "id": 207,
+  "level": "TOPIK 2",
+  "word": "맑다",
+  "usage": "Mô tả trời quang, nước trong",
+  "meaning": "Trong, quang đãng",
+  "pron": "[막따] mak-tta",
+  "example": "하늘이 맑아요. (Bầu trời quang đãng.)"
+ },
+ {
+  "id": 208,
+  "level": "TOPIK 2",
+  "word": "흐리다",
+  "usage": "Mô tả trời âm u, nhiều mây",
+  "meaning": "U ám, nhiều mây",
+  "pron": "[흐리다] heu-ri-da",
+  "example": "오늘은 날씨가 흐려요. (Hôm nay trời âm u.)"
+ },
+ {
+  "id": 209,
+  "level": "TOPIK 2",
+  "word": "깨끗하다",
+  "usage": "Mô tả nơi chốn, đồ vật sạch sẽ",
+  "meaning": "Sạch sẽ",
+  "pron": "[깨끄타다] kkae-kkeu-ta-da",
+  "example": "방이 깨끗해요. (Phòng sạch sẽ.)"
+ },
+ {
+  "id": 210,
+  "level": "TOPIK 2",
+  "word": "더럽다",
+  "usage": "Mô tả thứ bẩn thỉu",
+  "meaning": "Bẩn",
+  "pron": "[더럽따] deo-reop-tta",
+  "example": "손이 더러워요. (Tay bẩn.)"
+ },
+ {
+  "id": 211,
+  "level": "TOPIK 2",
+  "word": "조용하다",
+  "usage": "Mô tả nơi yên tĩnh, người trầm lặng",
+  "meaning": "Yên tĩnh",
+  "pron": "[조용하다] jo-yong-ha-da",
+  "example": "도서관은 조용해요. (Thư viện yên tĩnh.)"
+ },
+ {
+  "id": 212,
+  "level": "TOPIK 2",
+  "word": "시끄럽다",
+  "usage": "Mô tả tiếng ồn khó chịu",
+  "meaning": "Ồn ào",
+  "pron": "[시끄럽따] si-kkeu-reop-tta",
+  "example": "옆집이 시끄러워요. (Nhà bên cạnh ồn ào.)"
+ },
+ {
+  "id": 213,
+  "level": "TOPIK 2",
+  "word": "복잡하다",
+  "usage": "Mô tả nơi đông đúc hoặc vấn đề phức tạp",
+  "meaning": "Phức tạp, đông đúc",
+  "pron": "[복짜파다] bok-jja-pa-da",
+  "example": "지하철이 복잡해요. (Tàu điện ngầm đông đúc.)"
+ },
+ {
+  "id": 214,
+  "level": "TOPIK 2",
+  "word": "편리하다",
+  "usage": "Mô tả sự tiện lợi của dịch vụ, đồ vật",
+  "meaning": "Tiện lợi",
+  "pron": "[펼리하다] pyeol-li-ha-da",
+  "example": "교통이 편리해요. (Giao thông tiện lợi.)"
+ },
+ {
+  "id": 215,
+  "level": "TOPIK 2",
+  "word": "불편하다",
+  "usage": "Mô tả sự bất tiện, khó chịu",
+  "meaning": "Bất tiện",
+  "pron": "[불편하다] bul-pyeon-ha-da",
+  "example": "이 의자는 불편해요. (Cái ghế này không thoải mái.)"
+ },
+ {
+  "id": 216,
+  "level": "TOPIK 2",
+  "word": "유명하다",
+  "usage": "Mô tả người, địa điểm nổi tiếng",
+  "meaning": "Nổi tiếng",
+  "pron": "[유명하다] yu-myeong-ha-da",
+  "example": "이 식당은 아주 유명해요. (Nhà hàng này rất nổi tiếng.)"
+ },
+ {
+  "id": 217,
+  "level": "TOPIK 2",
+  "word": "중요하다",
+  "usage": "Nhấn mạnh tầm quan trọng",
+  "meaning": "Quan trọng",
+  "pron": "[중요하다] jung-yo-ha-da",
+  "example": "이 시험은 아주 중요해요. (Kỳ thi này rất quan trọng.)"
+ },
+ {
+  "id": 218,
+  "level": "TOPIK 2",
+  "word": "특별하다",
+  "usage": "Mô tả điều đặc biệt, khác thường",
+  "meaning": "Đặc biệt",
+  "pron": "[특뼐하다] teuk-ppyeol-ha-da",
+  "example": "오늘은 특별한 날이에요. (Hôm nay là ngày đặc biệt.)"
+ },
+ {
+  "id": 219,
+  "level": "TOPIK 2",
+  "word": "심심하다",
+  "usage": "Diễn tả cảm giác buồn chán, rảnh rỗi",
+  "meaning": "Chán, buồn tẻ",
+  "pron": "[심심하다] sim-sim-ha-da",
+  "example": "집에 있으면 심심해요. (Ở nhà thì chán.)"
+ },
+ {
+  "id": 220,
+  "level": "TOPIK 2",
+  "word": "무섭다",
+  "usage": "Diễn tả sợ hãi, đáng sợ",
+  "meaning": "Đáng sợ, sợ",
+  "pron": "[무섭따] mu-seop-tta",
+  "example": "밤에 혼자 있으면 무서워요. (Ở một mình ban đêm thì sợ.)"
+ },
+ {
+  "id": 221,
+  "level": "TOPIK 2",
+  "word": "슬프다",
+  "usage": "Diễn tả nỗi buồn",
+  "meaning": "Buồn",
+  "pron": "[슬프다] seul-peu-da",
+  "example": "영화가 너무 슬퍼요. (Bộ phim buồn quá.)"
+ },
+ {
+  "id": 222,
+  "level": "TOPIK 2",
+  "word": "기쁘다",
+  "usage": "Diễn tả niềm vui (hơi trang trọng)",
+  "meaning": "Vui mừng",
+  "pron": "[기쁘다] gi-ppeu-da",
+  "example": "합격해서 정말 기뻐요. (Đỗ rồi nên thật sự vui mừng.)"
+ },
+ {
+  "id": 223,
+  "level": "TOPIK 2",
+  "word": "외롭다",
+  "usage": "Diễn tả sự cô đơn",
+  "meaning": "Cô đơn",
+  "pron": "[외롭따] oe-rop-tta",
+  "example": "혼자 살면 가끔 외로워요. (Sống một mình đôi khi cô đơn.)"
+ },
+ {
+  "id": 224,
+  "level": "TOPIK 2",
+  "word": "친절하다",
+  "usage": "Khen thái độ tử tế, ân cần",
+  "meaning": "Thân thiện, tử tế",
+  "pron": "[친절하다] chin-jeol-ha-da",
+  "example": "직원이 아주 친절해요. (Nhân viên rất tử tế.)"
+ },
+ {
+  "id": 225,
+  "level": "TOPIK 2",
+  "word": "성격",
+  "usage": "Nói về tính cách",
+  "meaning": "Tính cách",
+  "pron": "[성껵] seong-kkyeok",
+  "example": "성격이 밝아요. (Tính cách vui vẻ.)"
+ },
+ {
+  "id": 226,
+  "level": "TOPIK 2",
+  "word": "똑똑하다",
+  "usage": "Khen người thông minh, lanh lợi",
+  "meaning": "Thông minh",
+  "pron": "[똑또카다] ttok-tto-ka-da",
+  "example": "동생이 아주 똑똑해요. (Em tôi rất thông minh.)"
+ },
+ {
+  "id": 227,
+  "level": "TOPIK 2",
+  "word": "게으르다",
+  "usage": "Mô tả người lười biếng",
+  "meaning": "Lười biếng",
+  "pron": "[게으르다] ge-eu-reu-da",
+  "example": "저는 좀 게을러요. (Tôi hơi lười.)"
+ },
+ {
+  "id": 228,
+  "level": "TOPIK 2",
+  "word": "도움",
+  "usage": "Nói về sự giúp đỡ, hỗ trợ",
+  "meaning": "Sự giúp đỡ",
+  "pron": "[도움] do-um",
+  "example": "도움이 필요하면 말씀하세요. (Nếu cần giúp đỡ hãy nói với tôi.)"
+ },
+ {
+  "id": 229,
+  "level": "TOPIK 2",
+  "word": "문제",
+  "usage": "Bài tập/câu hỏi thi, hoặc vấn đề rắc rối",
+  "meaning": "Vấn đề, câu hỏi",
+  "pron": "[문제] mun-je",
+  "example": "문제가 생겼어요. (Đã có vấn đề xảy ra.)"
+ },
+ {
+  "id": 230,
+  "level": "TOPIK 2",
+  "word": "방법",
+  "usage": "Hỏi/nói cách thức làm việc gì",
+  "meaning": "Phương pháp, cách",
+  "pron": "[방법] bang-beop",
+  "example": "좋은 방법이 있어요? (Bạn có cách nào tốt không?)"
+ },
+ {
+  "id": 231,
+  "level": "TOPIK 2",
+  "word": "이유",
+  "usage": "Hỏi/giải thích nguyên nhân, lý do",
+  "meaning": "Lý do",
+  "pron": "[이유] i-yu",
+  "example": "늦은 이유가 뭐예요? (Lý do bạn đến muộn là gì?)"
+ },
+ {
+  "id": 232,
+  "level": "TOPIK 2",
+  "word": "결과",
+  "usage": "Nói về kết quả thi, công việc",
+  "meaning": "Kết quả",
+  "pron": "[결과] gyeol-gwa",
+  "example": "시험 결과가 나왔어요. (Kết quả thi đã có.)"
+ },
+ {
+  "id": 233,
+  "level": "TOPIK 2",
+  "word": "사실",
+  "usage": "Nói về sự thật; cũng dùng mở đầu câu \"thật ra\"",
+  "meaning": "Sự thật, thực ra",
+  "pron": "[사실] sa-sil",
+  "example": "사실은 저도 몰라요. (Thật ra tôi cũng không biết.)"
+ },
+ {
+  "id": 234,
+  "level": "TOPIK 2",
+  "word": "정보",
+  "usage": "Nói về thông tin tìm kiếm, tra cứu",
+  "meaning": "Thông tin",
+  "pron": "[정보] jeong-bo",
+  "example": "인터넷에서 정보를 찾아요. (Tôi tìm thông tin trên internet.)"
+ },
+ {
+  "id": 235,
+  "level": "TOPIK 2",
+  "word": "소식",
+  "usage": "Nói về tin tức về ai đó, tin vui/buồn",
+  "meaning": "Tin tức, tin",
+  "pron": "[소식] so-sik",
+  "example": "좋은 소식이 있어요. (Tôi có tin vui.)"
+ },
+ {
+  "id": 236,
+  "level": "TOPIK 2",
+  "word": "뉴스",
+  "usage": "Nói về bản tin thời sự",
+  "meaning": "Tin tức thời sự",
+  "pron": "[뉴스] nyu-seu",
+  "example": "저녁마다 뉴스를 봐요. (Tối nào tôi cũng xem tin tức.)"
+ },
+ {
+  "id": 237,
+  "level": "TOPIK 2",
+  "word": "신문",
+  "usage": "Nói về báo giấy",
+  "meaning": "Báo",
+  "pron": "[신문] sin-mun",
+  "example": "아침에 신문을 읽어요. (Buổi sáng tôi đọc báo.)"
+ },
+ {
+  "id": 238,
+  "level": "TOPIK 2",
+  "word": "광고",
+  "usage": "Nói về quảng cáo trên tivi, mạng",
+  "meaning": "Quảng cáo",
+  "pron": "[광고] gwang-go",
+  "example": "광고가 너무 많아요. (Quảng cáo nhiều quá.)"
+ },
+ {
+  "id": 239,
+  "level": "TOPIK 2",
+  "word": "규칙",
+  "usage": "Nói về quy tắc, luật lệ",
+  "meaning": "Quy tắc",
+  "pron": "[규칙] gyu-chik",
+  "example": "규칙을 지켜야 해요. (Phải tuân thủ quy tắc.)"
+ },
+ {
+  "id": 240,
+  "level": "TOPIK 2",
+  "word": "습관",
+  "usage": "Nói về thói quen tốt/xấu",
+  "meaning": "Thói quen",
+  "pron": "[습관] seup-gwan",
+  "example": "일찍 자는 습관이 있어요. (Tôi có thói quen ngủ sớm.)"
+ },
+ {
+  "id": 241,
+  "level": "TOPIK 2",
+  "word": "정리하다",
+  "usage": "Sắp xếp đồ đạc, tóm tắt nội dung",
+  "meaning": "Sắp xếp, tổng hợp",
+  "pron": "[정리하다] jeong-ri-ha-da",
+  "example": "책상을 정리했어요. (Tôi đã dọn gọn bàn học.)"
+ },
+ {
+  "id": 242,
+  "level": "TOPIK 2",
+  "word": "바꾸다",
+  "usage": "Thay đổi, đổi đồ vật, kế hoạch",
+  "meaning": "Đổi, thay",
+  "pron": "[바꾸다] ba-kku-da",
+  "example": "약속 시간을 바꿨어요. (Tôi đã đổi giờ hẹn.)"
+ },
+ {
+  "id": 243,
+  "level": "TOPIK 2",
+  "word": "변하다",
+  "usage": "Nói về sự thay đổi tự nhiên theo thời gian",
+  "meaning": "Thay đổi",
+  "pron": "[변하다] byeon-ha-da",
+  "example": "서울이 많이 변했어요. (Seoul đã thay đổi nhiều.)"
+ },
+ {
+  "id": 244,
+  "level": "TOPIK 2",
+  "word": "늘다",
+  "usage": "Nói về sự tăng lên (kỹ năng, số lượng)",
+  "meaning": "Tăng lên",
+  "pron": "[늘다] neul-da",
+  "example": "한국어 실력이 늘었어요. (Trình độ tiếng Hàn đã tăng.)"
+ },
+ {
+  "id": 245,
+  "level": "TOPIK 2",
+  "word": "줄다",
+  "usage": "Nói về sự giảm đi (cân nặng, số lượng)",
+  "meaning": "Giảm đi",
+  "pron": "[줄다] jul-da",
+  "example": "몸무게가 줄었어요. (Cân nặng đã giảm.)"
+ },
+ {
+  "id": 246,
+  "level": "TOPIK 2",
+  "word": "올리다",
+  "usage": "Nâng lên, đăng lên, tăng giá",
+  "meaning": "Nâng, đăng, tăng",
+  "pron": "[올리다] ol-li-da",
+  "example": "사진을 인터넷에 올렸어요. (Tôi đã đăng ảnh lên mạng.)"
+ },
+ {
+  "id": 247,
+  "level": "TOPIK 2",
+  "word": "내리다",
+  "usage": "Hạ xuống, xuống xe, giảm giá",
+  "meaning": "Hạ, xuống",
+  "pron": "[내리다] nae-ri-da",
+  "example": "다음 역에서 내려요. (Tôi xuống ở ga tiếp theo.)"
+ },
+ {
+  "id": 248,
+  "level": "TOPIK 2",
+  "word": "찾다",
+  "usage": "Tìm kiếm đồ vật, tra cứu, rút tiền",
+  "meaning": "Tìm",
+  "pron": "[찯따] chat-tta",
+  "example": "열쇠를 찾고 있어요. (Tôi đang tìm chìa khóa.)"
+ },
+ {
+  "id": 249,
+  "level": "TOPIK 2",
+  "word": "잃어버리다",
+  "usage": "Làm mất đồ vật",
+  "meaning": "Làm mất",
+  "pron": "[이러버리다] i-reo-beo-ri-da",
+  "example": "지갑을 잃어버렸어요. (Tôi làm mất ví.)"
+ },
+ {
+  "id": 250,
+  "level": "TOPIK 2",
+  "word": "빌리다",
+  "usage": "Mượn đồ, mượn sách, vay tiền",
+  "meaning": "Mượn, vay",
+  "pron": "[빌리다] bil-li-da",
+  "example": "도서관에서 책을 빌렸어요. (Tôi mượn sách ở thư viện.)"
+ },
+ {
+  "id": 251,
+  "level": "TOPIK 2",
+  "word": "빌려주다",
+  "usage": "Cho mượn, cho vay",
+  "meaning": "Cho mượn",
+  "pron": "[빌려주다] bil-lyeo-ju-da",
+  "example": "친구에게 우산을 빌려줬어요. (Tôi cho bạn mượn ô.)"
+ },
+ {
+  "id": 252,
+  "level": "TOPIK 2",
+  "word": "돌려주다",
+  "usage": "Trả lại đồ đã mượn",
+  "meaning": "Trả lại",
+  "pron": "[돌려주다] dol-lyeo-ju-da",
+  "example": "내일 책을 돌려줄게요. (Ngày mai tôi sẽ trả sách.)"
+ },
+ {
+  "id": 253,
+  "level": "TOPIK 2",
+  "word": "보내다",
+  "usage": "Gửi thư, hàng; cũng là trải qua thời gian",
+  "meaning": "Gửi, trải qua",
+  "pron": "[보내다] bo-nae-da",
+  "example": "가족에게 편지를 보냈어요. (Tôi gửi thư cho gia đình.)"
+ },
+ {
+  "id": 254,
+  "level": "TOPIK 2",
+  "word": "받다",
+  "usage": "Nhận quà, thư, điện thoại; chịu (căng thẳng)",
+  "meaning": "Nhận",
+  "pron": "[받따] bat-tta",
+  "example": "생일 선물을 받았어요. (Tôi nhận được quà sinh nhật.)"
+ },
+ {
+  "id": 255,
+  "level": "TOPIK 2",
+  "word": "가져오다",
+  "usage": "Mang cái gì đó đến chỗ người nói",
+  "meaning": "Mang đến",
+  "pron": "[가저오다] ga-jeo-o-da",
+  "example": "물 좀 가져오세요. (Xin mang giúp tôi ít nước.)"
+ },
+ {
+  "id": 256,
+  "level": "TOPIK 2",
+  "word": "가져가다",
+  "usage": "Mang cái gì đó đi khỏi chỗ người nói",
+  "meaning": "Mang đi",
+  "pron": "[가저가다] ga-jeo-ga-da",
+  "example": "이 책을 가져가세요. (Xin hãy mang cuốn sách này đi.)"
+ },
+ {
+  "id": 257,
+  "level": "TOPIK 2",
+  "word": "갈아타다",
+  "usage": "Chuyển tàu, xe",
+  "meaning": "Đổi tuyến, chuyển xe",
+  "pron": "[가라타다] ga-ra-ta-da",
+  "example": "시청역에서 갈아타세요. (Hãy chuyển tuyến ở ga City Hall.)"
+ },
+ {
+  "id": 258,
+  "level": "TOPIK 2",
+  "word": "걷다",
+  "usage": "Đi bộ",
+  "meaning": "Đi bộ",
+  "pron": "[걷따] geot-tta",
+  "example": "공원까지 걸어서 가요. (Tôi đi bộ đến công viên.)"
+ },
+ {
+  "id": 259,
+  "level": "TOPIK 2",
+  "word": "뛰다",
+  "usage": "Chạy, nhảy; cũng dùng \"tim đập\"",
+  "meaning": "Chạy, nhảy",
+  "pron": "[뛰다] ttwi-da",
+  "example": "아침마다 공원에서 뛰어요. (Sáng nào tôi cũng chạy ở công viên.)"
+ },
+ {
+  "id": 260,
+  "level": "TOPIK 2",
+  "word": "운전하다",
+  "usage": "Lái xe",
+  "meaning": "Lái xe",
+  "pron": "[운전하다] un-jeon-ha-da",
+  "example": "저는 운전할 수 있어요. (Tôi biết lái xe.)"
+ },
+ {
+  "id": 261,
+  "level": "TOPIK 2",
+  "word": "건너다",
+  "usage": "Băng qua đường, sông",
+  "meaning": "Băng qua",
+  "pron": "[건너다] geon-neo-da",
+  "example": "길을 건널 때 조심하세요. (Khi qua đường hãy cẩn thận.)"
+ },
+ {
+  "id": 262,
+  "level": "TOPIK 2",
+  "word": "지나가다",
+  "usage": "Đi ngang qua, thời gian trôi qua",
+  "meaning": "Đi ngang qua",
+  "pron": "[지나가다] ji-na-ga-da",
+  "example": "은행 앞을 지나가요. (Tôi đi ngang qua trước ngân hàng.)"
+ },
+ {
+  "id": 263,
+  "level": "TOPIK 2",
+  "word": "돌아가다",
+  "usage": "Trở về nơi ban đầu, quay lại",
+  "meaning": "Quay về",
+  "pron": "[도라가다] do-ra-ga-da",
+  "example": "고향으로 돌아가고 싶어요. (Tôi muốn trở về quê.)"
+ },
+ {
+  "id": 264,
+  "level": "TOPIK 2",
+  "word": "돌아오다",
+  "usage": "Trở lại chỗ người nói",
+  "meaning": "Trở về",
+  "pron": "[도라오다] do-ra-o-da",
+  "example": "언제 한국에 돌아와요? (Khi nào bạn trở lại Hàn Quốc?)"
+ },
+ {
+  "id": 265,
+  "level": "TOPIK 2",
+  "word": "들어가다",
+  "usage": "Đi vào bên trong",
+  "meaning": "Đi vào",
+  "pron": "[드러가다] deu-reo-ga-da",
+  "example": "교실에 들어가세요. (Hãy vào lớp học.)"
+ },
+ {
+  "id": 266,
+  "level": "TOPIK 2",
+  "word": "나가다",
+  "usage": "Đi ra ngoài",
+  "meaning": "Đi ra",
+  "pron": "[나가다] na-ga-da",
+  "example": "밖에 나가서 놀아요. (Ra ngoài chơi nào.)"
+ },
+ {
+  "id": 267,
+  "level": "TOPIK 2",
+  "word": "나오다",
+  "usage": "Đi ra chỗ người nói; xuất hiện, ra mắt",
+  "meaning": "Đi ra, xuất hiện",
+  "pron": "[나오다] na-o-da",
+  "example": "일이 끝나고 나왔어요. (Xong việc tôi đã ra ngoài.)"
+ },
+ {
+  "id": 268,
+  "level": "TOPIK 2",
+  "word": "올라가다",
+  "usage": "Đi lên, leo lên",
+  "meaning": "Đi lên",
+  "pron": "[올라가다] ol-la-ga-da",
+  "example": "3층으로 올라가세요. (Hãy đi lên tầng 3.)"
+ },
+ {
+  "id": 269,
+  "level": "TOPIK 2",
+  "word": "내려가다",
+  "usage": "Đi xuống",
+  "meaning": "Đi xuống",
+  "pron": "[내려가다] nae-ryeo-ga-da",
+  "example": "1층으로 내려가요. (Tôi đi xuống tầng 1.)"
+ },
+ {
+  "id": 270,
+  "level": "TOPIK 2",
+  "word": "앞",
+  "usage": "Chỉ vị trí phía trước",
+  "meaning": "Phía trước",
+  "pron": "[압] ap",
+  "example": "학교 앞에서 만나요. (Gặp nhau trước cổng trường nhé.)"
+ },
+ {
+  "id": 271,
+  "level": "TOPIK 2",
+  "word": "뒤",
+  "usage": "Chỉ vị trí phía sau",
+  "meaning": "Phía sau",
+  "pron": "[뒤] dwi",
+  "example": "건물 뒤에 주차장이 있어요. (Sau tòa nhà có bãi đỗ xe.)"
+ },
+ {
+  "id": 272,
+  "level": "TOPIK 2",
+  "word": "옆",
+  "usage": "Chỉ vị trí bên cạnh",
+  "meaning": "Bên cạnh",
+  "pron": "[엽] yeop",
+  "example": "은행 옆에 편의점이 있어요. (Cạnh ngân hàng có cửa hàng tiện lợi.)"
+ },
+ {
+  "id": 273,
+  "level": "TOPIK 2",
+  "word": "위",
+  "usage": "Chỉ vị trí phía trên",
+  "meaning": "Phía trên",
+  "pron": "[위] wi",
+  "example": "책상 위에 책이 있어요. (Trên bàn có sách.)"
+ },
+ {
+  "id": 274,
+  "level": "TOPIK 2",
+  "word": "아래",
+  "usage": "Chỉ vị trí phía dưới",
+  "meaning": "Phía dưới",
+  "pron": "[아래] a-rae",
+  "example": "의자 아래에 가방이 있어요. (Dưới ghế có cặp.)"
+ },
+ {
+  "id": 275,
+  "level": "TOPIK 2",
+  "word": "안",
+  "usage": "Chỉ bên trong",
+  "meaning": "Bên trong",
+  "pron": "[안] an",
+  "example": "가방 안에 지갑이 있어요. (Trong cặp có ví.)"
+ },
+ {
+  "id": 276,
+  "level": "TOPIK 2",
+  "word": "밖",
+  "usage": "Chỉ bên ngoài",
+  "meaning": "Bên ngoài",
+  "pron": "[박] bak",
+  "example": "밖이 너무 추워요. (Bên ngoài lạnh quá.)"
+ },
+ {
+  "id": 277,
+  "level": "TOPIK 2",
+  "word": "사이",
+  "usage": "Chỉ khoảng giữa hai vật hoặc mối quan hệ",
+  "meaning": "Giữa, mối quan hệ",
+  "pron": "[사이] sa-i",
+  "example": "우리는 사이가 좋아요. (Chúng tôi có mối quan hệ tốt.)"
+ },
+ {
+  "id": 278,
+  "level": "TOPIK 2",
+  "word": "근처",
+  "usage": "Chỉ khu vực lân cận",
+  "meaning": "Gần đây, vùng lân cận",
+  "pron": "[근처] geun-cheo",
+  "example": "근처에 은행이 있어요? (Gần đây có ngân hàng không?)"
+ },
+ {
+  "id": 279,
+  "level": "TOPIK 2",
+  "word": "건물",
+  "usage": "Nói về tòa nhà",
+  "meaning": "Tòa nhà",
+  "pron": "[건물] geon-mul",
+  "example": "저 건물이 우리 회사예요. (Tòa nhà kia là công ty tôi.)"
+ },
+ {
+  "id": 280,
+  "level": "TOPIK 2",
+  "word": "층",
+  "usage": "Nói về tầng lầu",
+  "meaning": "Tầng",
+  "pron": "[층] cheung",
+  "example": "사무실은 5층에 있어요. (Văn phòng ở tầng 5.)"
+ },
+ {
+  "id": 281,
+  "level": "TOPIK 2",
+  "word": "엘리베이터",
+  "usage": "Nói về thang máy trong tòa nhà",
+  "meaning": "Thang máy",
+  "pron": "[엘리베이터] el-li-be-i-teo",
+  "example": "엘리베이터를 타세요. (Hãy đi thang máy.)"
+ },
+ {
+  "id": 282,
+  "level": "TOPIK 2",
+  "word": "계단",
+  "usage": "Nói về cầu thang bộ",
+  "meaning": "Cầu thang",
+  "pron": "[계단] gye-dan",
+  "example": "계단으로 올라가요. (Tôi đi lên bằng cầu thang bộ.)"
+ },
+ {
+  "id": 283,
+  "level": "TOPIK 2",
+  "word": "입구",
+  "usage": "Nói về lối vào",
+  "meaning": "Lối vào",
+  "pron": "[입꾸] ip-kku",
+  "example": "극장 입구에서 만나요. (Gặp nhau ở lối vào rạp chiếu phim.)"
+ },
+ {
+  "id": 284,
+  "level": "TOPIK 2",
+  "word": "출구",
+  "usage": "Nói về lối ra, cửa ga tàu",
+  "meaning": "Lối ra",
+  "pron": "[출구] chul-gu",
+  "example": "3번 출구로 나오세요. (Hãy ra bằng cửa số 3.)"
+ },
+ {
+  "id": 285,
+  "level": "TOPIK 2",
+  "word": "주소",
+  "usage": "Hỏi/nói địa chỉ nhà, nơi làm việc",
+  "meaning": "Địa chỉ",
+  "pron": "[주소] ju-so",
+  "example": "주소를 알려 주세요. (Xin cho tôi biết địa chỉ.)"
+ },
+ {
+  "id": 286,
+  "level": "TOPIK 2",
+  "word": "우체국",
+  "usage": "Nói về nơi gửi thư, bưu kiện",
+  "meaning": "Bưu điện",
+  "pron": "[우체국] u-che-guk",
+  "example": "우체국에서 소포를 보냈어요. (Tôi gửi bưu kiện ở bưu điện.)"
+ },
+ {
+  "id": 287,
+  "level": "TOPIK 2",
+  "word": "은행",
+  "usage": "Nói về ngân hàng, giao dịch tiền",
+  "meaning": "Ngân hàng",
+  "pron": "[은행] eun-haeng",
+  "example": "은행에서 돈을 찾았어요. (Tôi rút tiền ở ngân hàng.)"
+ },
+ {
+  "id": 288,
+  "level": "TOPIK 2",
+  "word": "통장",
+  "usage": "Nói về sổ/tài khoản ngân hàng",
+  "meaning": "Sổ tài khoản",
+  "pron": "[통장] tong-jang",
+  "example": "통장을 만들고 싶어요. (Tôi muốn mở tài khoản.)"
+ },
+ {
+  "id": 289,
+  "level": "TOPIK 2",
+  "word": "신용카드",
+  "usage": "Nói về thẻ tín dụng khi thanh toán",
+  "meaning": "Thẻ tín dụng",
+  "pron": "[시뇽카드] si-nyong-ka-deu",
+  "example": "신용카드로 계산할게요. (Tôi sẽ thanh toán bằng thẻ tín dụng.)"
+ },
+ {
+  "id": 290,
+  "level": "TOPIK 2",
+  "word": "현금",
+  "usage": "Nói về tiền mặt",
+  "meaning": "Tiền mặt",
+  "pron": "[현금] hyeon-geum",
+  "example": "현금으로 내도 돼요? (Trả bằng tiền mặt được không?)"
+ },
+ {
+  "id": 291,
+  "level": "TOPIK 2",
+  "word": "저축하다",
+  "usage": "Tiết kiệm tiền gửi ngân hàng",
+  "meaning": "Tiết kiệm",
+  "pron": "[저추카다] jeo-chu-ka-da",
+  "example": "매달 돈을 저축해요. (Mỗi tháng tôi tiết kiệm tiền.)"
+ },
+ {
+  "id": 292,
+  "level": "TOPIK 2",
+  "word": "아끼다",
+  "usage": "Tiết kiệm đồ vật, thời gian; trân trọng",
+  "meaning": "Tiết kiệm, trân trọng",
+  "pron": "[아끼다] a-kki-da",
+  "example": "전기를 아껴 써요. (Tôi dùng điện tiết kiệm.)"
+ },
+ {
+  "id": 293,
+  "level": "TOPIK 2",
+  "word": "낭비하다",
+  "usage": "Lãng phí tiền bạc, thời gian",
+  "meaning": "Lãng phí",
+  "pron": "[낭비하다] nang-bi-ha-da",
+  "example": "시간을 낭비하지 마세요. (Đừng lãng phí thời gian.)"
+ },
+ {
+  "id": 294,
+  "level": "TOPIK 2",
+  "word": "부자",
+  "usage": "Nói về người giàu",
+  "meaning": "Người giàu",
+  "pron": "[부자] bu-ja",
+  "example": "부자가 되고 싶어요. (Tôi muốn trở nên giàu có.)"
+ },
+ {
+  "id": 295,
+  "level": "TOPIK 2",
+  "word": "가난하다",
+  "usage": "Mô tả hoàn cảnh nghèo khó",
+  "meaning": "Nghèo",
+  "pron": "[가난하다] ga-nan-ha-da",
+  "example": "어릴 때 집이 가난했어요. (Hồi nhỏ nhà tôi nghèo.)"
+ },
+ {
+  "id": 296,
+  "level": "TOPIK 2",
+  "word": "값",
+  "usage": "Nói về giá của hàng hóa (văn nói gần với 가격)",
+  "meaning": "Giá",
+  "pron": "[갑] gap",
+  "example": "값이 얼마예요? (Giá bao nhiêu?)"
+ },
+ {
+  "id": 297,
+  "level": "TOPIK 2",
+  "word": "무료",
+  "usage": "Nói về dịch vụ miễn phí",
+  "meaning": "Miễn phí",
+  "pron": "[무료] mu-ryo",
+  "example": "입장료가 무료예요. (Vé vào cổng miễn phí.)"
+ },
+ {
+  "id": 298,
+  "level": "TOPIK 2",
+  "word": "요금",
+  "usage": "Nói về phí dịch vụ (điện, nước, taxi)",
+  "meaning": "Phí, cước",
+  "pron": "[요금] yo-geum",
+  "example": "택시 요금이 올랐어요. (Cước taxi đã tăng.)"
+ },
+ {
+  "id": 299,
+  "level": "TOPIK 2",
+  "word": "표",
+  "usage": "Nói về vé tàu, xe, phim",
+  "meaning": "Vé",
+  "pron": "[표] pyo",
+  "example": "기차표를 샀어요. (Tôi mua vé tàu.)"
+ },
+ {
+  "id": 300,
+  "level": "TOPIK 2",
+  "word": "좌석",
+  "usage": "Nói về chỗ ngồi trên xe, rạp",
+  "meaning": "Chỗ ngồi",
+  "pron": "[좌석] jwa-seok",
+  "example": "창가 좌석으로 주세요. (Cho tôi chỗ ngồi cạnh cửa sổ.)"
+ },
+ {
+  "id": 301,
+  "level": "TOPIK 2",
+  "word": "비행기",
+  "usage": "Nói về máy bay khi đi xa",
+  "meaning": "Máy bay",
+  "pron": "[비행기] bi-haeng-gi",
+  "example": "비행기로 두 시간 걸려요. (Đi máy bay mất hai tiếng.)"
+ },
+ {
+  "id": 302,
+  "level": "TOPIK 2",
+  "word": "공항",
+  "usage": "Nói về sân bay",
+  "meaning": "Sân bay",
+  "pron": "[공항] gong-hang",
+  "example": "공항까지 택시로 가요. (Tôi đi taxi đến sân bay.)"
+ },
+ {
+  "id": 303,
+  "level": "TOPIK 2",
+  "word": "여권",
+  "usage": "Nói về hộ chiếu khi xuất nhập cảnh",
+  "meaning": "Hộ chiếu",
+  "pron": "[여꿘] yeo-kkwon",
+  "example": "여권을 가져오셨어요? (Bạn có mang hộ chiếu không?)"
+ },
+ {
+  "id": 304,
+  "level": "TOPIK 2",
+  "word": "비자",
+  "usage": "Nói về thị thực nhập cảnh",
+  "meaning": "Visa",
+  "pron": "[비자] bi-ja",
+  "example": "한국 비자를 신청했어요. (Tôi đã xin visa Hàn Quốc.)"
+ },
+ {
+  "id": 305,
+  "level": "TOPIK 2",
+  "word": "짐",
+  "usage": "Nói về hành lý, đồ đạc mang theo",
+  "meaning": "Hành lý",
+  "pron": "[짐] jim",
+  "example": "짐이 너무 무거워요. (Hành lý nặng quá.)"
+ },
+ {
+  "id": 306,
+  "level": "TOPIK 2",
+  "word": "호텔",
+  "usage": "Nói về khách sạn",
+  "meaning": "Khách sạn",
+  "pron": "[호텔] ho-tel",
+  "example": "호텔을 예약했어요. (Tôi đã đặt khách sạn.)"
+ },
+ {
+  "id": 307,
+  "level": "TOPIK 2",
+  "word": "숙소",
+  "usage": "Nói chung về chỗ ở khi đi du lịch",
+  "meaning": "Chỗ ở",
+  "pron": "[숙쏘] suk-sso",
+  "example": "숙소가 깨끗해요. (Chỗ ở sạch sẽ.)"
+ },
+ {
+  "id": 308,
+  "level": "TOPIK 2",
+  "word": "지도",
+  "usage": "Nói về bản đồ, tra đường",
+  "meaning": "Bản đồ",
+  "pron": "[지도] ji-do",
+  "example": "지도를 보고 찾아왔어요. (Tôi xem bản đồ rồi tìm đến.)"
+ },
+ {
+  "id": 309,
+  "level": "TOPIK 2",
+  "word": "안내하다",
+  "usage": "Hướng dẫn, dẫn đường, thông báo",
+  "meaning": "Hướng dẫn",
+  "pron": "[안내하다] an-nae-ha-da",
+  "example": "손님을 자리로 안내했어요. (Tôi dẫn khách đến chỗ ngồi.)"
+ },
+ {
+  "id": 310,
+  "level": "TOPIK 2",
+  "word": "구경하다",
+  "usage": "Ngắm nhìn, xem tham quan",
+  "meaning": "Ngắm, xem",
+  "pron": "[구경하다] gu-gyeong-ha-da",
+  "example": "시내를 구경했어요. (Tôi đã dạo xem trung tâm thành phố.)"
+ },
+ {
+  "id": 311,
+  "level": "TOPIK 2",
+  "word": "산책하다",
+  "usage": "Đi dạo thư giãn",
+  "meaning": "Đi dạo",
+  "pron": "[산채카다] san-chae-ka-da",
+  "example": "저녁에 강변에서 산책해요. (Buổi tối tôi đi dạo bên bờ sông.)"
+ },
+ {
+  "id": 312,
+  "level": "TOPIK 2",
+  "word": "등산하다",
+  "usage": "Leo núi",
+  "meaning": "Leo núi",
+  "pron": "[등산하다] deung-san-ha-da",
+  "example": "주말마다 등산해요. (Cuối tuần nào tôi cũng leo núi.)"
+ },
+ {
+  "id": 313,
+  "level": "TOPIK 2",
+  "word": "수영하다",
+  "usage": "Bơi lội",
+  "meaning": "Bơi",
+  "pron": "[수영하다] su-yeong-ha-da",
+  "example": "여름에 바다에서 수영해요. (Mùa hè tôi bơi ở biển.)"
+ },
+ {
+  "id": 314,
+  "level": "TOPIK 2",
+  "word": "축구",
+  "usage": "Nói về môn bóng đá",
+  "meaning": "Bóng đá",
+  "pron": "[축꾸] chuk-kku",
+  "example": "친구들과 축구를 해요. (Tôi chơi bóng đá với bạn bè.)"
+ },
+ {
+  "id": 315,
+  "level": "TOPIK 2",
+  "word": "야구",
+  "usage": "Nói về môn bóng chày",
+  "meaning": "Bóng chày",
+  "pron": "[야구] ya-gu",
+  "example": "한국에서 야구 경기를 봤어요. (Tôi đã xem trận bóng chày ở Hàn Quốc.)"
+ },
+ {
+  "id": 316,
+  "level": "TOPIK 2",
+  "word": "경기",
+  "usage": "Nói về trận đấu thể thao",
+  "meaning": "Trận đấu",
+  "pron": "[경기] gyeong-gi",
+  "example": "경기가 정말 재미있었어요. (Trận đấu thật sự hay.)"
+ },
+ {
+  "id": 317,
+  "level": "TOPIK 2",
+  "word": "이기다",
+  "usage": "Thắng trong trận đấu, trò chơi",
+  "meaning": "Thắng",
+  "pron": "[이기다] i-gi-da",
+  "example": "우리 팀이 이겼어요. (Đội chúng tôi đã thắng.)"
+ },
+ {
+  "id": 318,
+  "level": "TOPIK 2",
+  "word": "지다",
+  "usage": "Thua trận, thua cuộc",
+  "meaning": "Thua",
+  "pron": "[지다] ji-da",
+  "example": "아깝게 경기에서 졌어요. (Tiếc là đã thua trận.)"
+ },
+ {
+  "id": 319,
+  "level": "TOPIK 2",
+  "word": "응원하다",
+  "usage": "Cổ vũ đội, động viên người",
+  "meaning": "Cổ vũ",
+  "pron": "[응원하다] eung-won-ha-da",
+  "example": "친구를 응원하러 갔어요. (Tôi đi cổ vũ bạn.)"
+ },
+ {
+  "id": 320,
+  "level": "TOPIK 2",
+  "word": "노력하다",
+  "usage": "Nỗ lực, cố gắng đạt mục tiêu",
+  "meaning": "Nỗ lực",
+  "pron": "[노려카다] no-ryeo-ka-da",
+  "example": "합격하려고 열심히 노력해요. (Tôi cố gắng để đỗ.)"
+ },
+ {
+  "id": 321,
+  "level": "TOPIK 2",
+  "word": "성공하다",
+  "usage": "Thành công trong công việc, thử thách",
+  "meaning": "Thành công",
+  "pron": "[성공하다] seong-gong-ha-da",
+  "example": "사업에 성공했어요. (Tôi đã thành công trong kinh doanh.)"
+ },
+ {
+  "id": 322,
+  "level": "TOPIK 2",
+  "word": "실패하다",
+  "usage": "Thất bại",
+  "meaning": "Thất bại",
+  "pron": "[실패하다] sil-pae-ha-da",
+  "example": "한 번 실패했지만 다시 해요. (Tuy đã thất bại một lần nhưng tôi thử lại.)"
+ },
+ {
+  "id": 323,
+  "level": "TOPIK 2",
+  "word": "포기하다",
+  "usage": "Bỏ cuộc, từ bỏ",
+  "meaning": "Từ bỏ",
+  "pron": "[포기하다] po-gi-ha-da",
+  "example": "끝까지 포기하지 마세요. (Đừng bỏ cuộc cho đến cùng.)"
+ },
+ {
+  "id": 324,
+  "level": "TOPIK 2",
+  "word": "도전하다",
+  "usage": "Thử sức với thử thách mới",
+  "meaning": "Thử thách, thử sức",
+  "pron": "[도전하다] do-jeon-ha-da",
+  "example": "새로운 일에 도전하고 싶어요. (Tôi muốn thử sức với việc mới.)"
+ },
+ {
+  "id": 325,
+  "level": "TOPIK 2",
+  "word": "꿈",
+  "usage": "Nói về ước mơ hoặc giấc mơ khi ngủ",
+  "meaning": "Ước mơ, giấc mơ",
+  "pron": "[꿈] kkum",
+  "example": "제 꿈은 의사예요. (Ước mơ của tôi là bác sĩ.)"
+ },
+ {
+  "id": 326,
+  "level": "TOPIK 2",
+  "word": "희망",
+  "usage": "Nói về hy vọng, kỳ vọng",
+  "meaning": "Hy vọng",
+  "pron": "[히망] hi-mang",
+  "example": "희망을 잃지 마세요. (Đừng đánh mất hy vọng.)"
+ },
+ {
+  "id": 327,
+  "level": "TOPIK 2",
+  "word": "목표",
+  "usage": "Nói về mục tiêu cần đạt",
+  "meaning": "Mục tiêu",
+  "pron": "[목표] mok-pyo",
+  "example": "올해 목표는 토픽 5급이에요. (Mục tiêu năm nay là TOPIK cấp 5.)"
+ },
+ {
+  "id": 328,
+  "level": "TOPIK 2",
+  "word": "미래",
+  "usage": "Nói về tương lai",
+  "meaning": "Tương lai",
+  "pron": "[미래] mi-rae",
+  "example": "미래가 기대돼요. (Tôi mong chờ tương lai.)"
+ },
+ {
+  "id": 329,
+  "level": "TOPIK 2",
+  "word": "과거",
+  "usage": "Nói về quá khứ",
+  "meaning": "Quá khứ",
+  "pron": "[과거] gwa-geo",
+  "example": "과거는 잊고 살아요. (Tôi sống và quên đi quá khứ.)"
+ },
+ {
+  "id": 330,
+  "level": "TOPIK 2",
+  "word": "최근",
+  "usage": "Nói về thời gian gần đây",
+  "meaning": "Gần đây",
+  "pron": "[최근] choe-geun",
+  "example": "최근에 이사했어요. (Gần đây tôi mới chuyển nhà.)"
+ },
+ {
+  "id": 331,
+  "level": "TOPIK 2",
+  "word": "앞으로",
+  "usage": "Nói về tương lai gần, từ nay về sau",
+  "meaning": "Từ nay về sau",
+  "pron": "[아프로] a-peu-ro",
+  "example": "앞으로 열심히 할게요. (Từ nay tôi sẽ cố gắng.)"
+ },
+ {
+  "id": 332,
+  "level": "TOPIK 2",
+  "word": "갑자기",
+  "usage": "Diễn tả sự việc xảy ra bất ngờ",
+  "meaning": "Đột nhiên",
+  "pron": "[갑짜기] gap-jja-gi",
+  "example": "갑자기 비가 왔어요. (Đột nhiên trời mưa.)"
+ },
+ {
+  "id": 333,
+  "level": "TOPIK 2",
+  "word": "자주",
+  "usage": "Diễn tả tần suất thường xuyên",
+  "meaning": "Thường xuyên",
+  "pron": "[자주] ja-ju",
+  "example": "자주 운동해요. (Tôi thường xuyên tập thể dục.)"
+ },
+ {
+  "id": 334,
+  "level": "TOPIK 2",
+  "word": "가끔",
+  "usage": "Diễn tả tần suất thỉnh thoảng",
+  "meaning": "Thỉnh thoảng",
+  "pron": "[가끔] ga-kkeum",
+  "example": "가끔 친구를 만나요. (Thỉnh thoảng tôi gặp bạn.)"
+ },
+ {
+  "id": 335,
+  "level": "TOPIK 2",
+  "word": "항상",
+  "usage": "Diễn tả việc luôn luôn xảy ra",
+  "meaning": "Luôn luôn",
+  "pron": "[항상] hang-sang",
+  "example": "항상 웃는 얼굴이에요. (Lúc nào cũng có gương mặt tươi cười.)"
+ },
+ {
+  "id": 336,
+  "level": "TOPIK 2",
+  "word": "보통",
+  "usage": "Diễn tả việc thường lệ, thông thường",
+  "meaning": "Thường, bình thường",
+  "pron": "[보통] bo-tong",
+  "example": "보통 7시에 일어나요. (Thường tôi dậy lúc 7 giờ.)"
+ },
+ {
+  "id": 337,
+  "level": "TOPIK 2",
+  "word": "거의",
+  "usage": "Diễn tả mức độ gần như (thường đi với phủ định)",
+  "meaning": "Hầu như",
+  "pron": "[거의] geo-ui",
+  "example": "거의 다 끝났어요. (Hầu như đã xong hết.)"
+ },
+ {
+  "id": 338,
+  "level": "TOPIK 2",
+  "word": "아직",
+  "usage": "Diễn tả việc chưa hoàn thành, vẫn còn",
+  "meaning": "Vẫn chưa, vẫn còn",
+  "pron": "[아직] a-jik",
+  "example": "아직 숙제를 안 했어요. (Tôi vẫn chưa làm bài tập.)"
+ },
+ {
+  "id": 339,
+  "level": "TOPIK 2",
+  "word": "벌써",
+  "usage": "Diễn tả sự ngạc nhiên vì việc xảy ra sớm",
+  "meaning": "Đã... rồi",
+  "pron": "[벌써] beol-sseo",
+  "example": "벌써 12시예요. (Đã 12 giờ rồi.)"
+ },
+ {
+  "id": 340,
+  "level": "TOPIK 2",
+  "word": "이미",
+  "usage": "Diễn tả việc đã hoàn tất từ trước",
+  "meaning": "Đã, từ trước",
+  "pron": "[이미] i-mi",
+  "example": "그 소식은 이미 알고 있어요. (Tôi đã biết tin đó rồi.)"
+ },
+ {
+  "id": 341,
+  "level": "TOPIK 2",
+  "word": "다시",
+  "usage": "Diễn tả làm lại, lặp lại lần nữa",
+  "meaning": "Lại, lần nữa",
+  "pron": "[다시] da-si",
+  "example": "다시 한번 말해 주세요. (Xin hãy nói lại một lần nữa.)"
+ },
+ {
+  "id": 342,
+  "level": "TOPIK 2",
+  "word": "함께",
+  "usage": "Diễn tả cùng làm với ai (trang trọng hơn 같이)",
+  "meaning": "Cùng nhau",
+  "pron": "[함께] ham-kke",
+  "example": "가족과 함께 여행했어요. (Tôi đi du lịch cùng gia đình.)"
+ },
+ {
+  "id": 343,
+  "level": "TOPIK 2",
+  "word": "혼자",
+  "usage": "Diễn tả làm một mình",
+  "meaning": "Một mình",
+  "pron": "[혼자] hon-ja",
+  "example": "혼자 영화를 봤어요. (Tôi xem phim một mình.)"
+ },
+ {
+  "id": 344,
+  "level": "TOPIK 2",
+  "word": "정말",
+  "usage": "Nhấn mạnh mức độ, cảm xúc thật",
+  "meaning": "Thật sự",
+  "pron": "[정말] jeong-mal",
+  "example": "정말 고마워요. (Thật sự cảm ơn bạn.)"
+ },
+ {
+  "id": 345,
+  "level": "TOPIK 2",
+  "word": "특히",
+  "usage": "Nhấn mạnh điều nổi bật hơn cả",
+  "meaning": "Đặc biệt là",
+  "pron": "[트키] teu-ki",
+  "example": "저는 특히 김치를 좋아해요. (Tôi đặc biệt thích kim chi.)"
+ },
+ {
+  "id": 346,
+  "level": "TOPIK 2",
+  "word": "물론",
+  "usage": "Đồng ý chắc chắn, tất nhiên",
+  "meaning": "Đương nhiên",
+  "pron": "[물론] mul-lon",
+  "example": "물론 도와드릴게요. (Đương nhiên tôi sẽ giúp bạn.)"
+ },
+ {
+  "id": 347,
+  "level": "TOPIK 2",
+  "word": "아마",
+  "usage": "Diễn tả phỏng đoán, có lẽ",
+  "meaning": "Có lẽ",
+  "pron": "[아마] a-ma",
+  "example": "아마 내일 비가 올 거예요. (Có lẽ ngày mai trời sẽ mưa.)"
+ },
+ {
+  "id": 348,
+  "level": "TOPIK 2",
+  "word": "반드시",
+  "usage": "Diễn tả sự nhất định, chắc chắn phải",
+  "meaning": "Nhất định",
+  "pron": "[반드시] ban-deu-si",
+  "example": "약속은 반드시 지키세요. (Nhất định hãy giữ lời hứa.)"
+ },
+ {
+  "id": 349,
+  "level": "TOPIK 2",
+  "word": "별로",
+  "usage": "Đi với phủ định, diễn tả \"không... lắm\"",
+  "meaning": "Không... lắm",
+  "pron": "[별로] byeol-lo",
+  "example": "이 음식은 별로 안 매워요. (Món này không cay lắm.)"
+ }
+]
